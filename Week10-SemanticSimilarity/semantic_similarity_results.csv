@@ -1,0 +1,1132 @@
+title1,title2,address1,address2,semantic_similarity
+Penrose Club ,The Penrose Club ,1415 Locust,1415 Locust ,0.97792345
+Penrose Club ,The Penrose Club ,1415 Locust ,1415 Locust ,0.9779234
+Penrose Club ,The Penrose Club ,1415 Locust ,1415 Locust ,0.9779234
+Westbury Hotel Bar ,Westbury Hotel ,217 S. 15th St. ,271 S 15th St. ,0.903397
+Westbury Hotel Bar ,Westbury Hotel ,271 S. 15th St. ,271 S 15th St. ,0.903397
+Westbury Hotel Bar ,Westbury Hotel ,271 S. 15th St. ,271 S 15th St. ,0.903397
+Dewey's Coffee Shop,Dewey's,13th & Chancellor,17th & Chancellor,0.75378644
+Dewey's Coffee Shop,Deweys,13th & Chancellor,Chancelor at 17th St.,0.75378644
+Dewey's Coffee Shop,Dewey's,17th & Chancellor,17th & Chancellor,0.75378644
+Dewey's Coffee Shop,Deweys,17th & Chancellor,Chancelor at 17th St.,0.75378644
+Dewey's Coffee Shop,Dewey's,13th & Chancellor,17th & Chancellor,0.75378644
+Dewey's Coffee Shop,Deweys,13th & Chancellor,Chancelor at 17th St.,0.75378644
+Dewey's Coffee Shop,Dewey's,17th & Chancelor,17th & Chancellor,0.75378644
+Dewey's Coffee Shop,Deweys,17th & Chancelor,Chancelor at 17th St.,0.75378644
+Rittenhouse Square,Spruce St. from Broad St. to area of Rittenhouse Square,,,0.72255814
+C.R. Club ,R.D. Club,6400 Market ,13th & Locust,0.7090038
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S 52nd St. ,0.67058045
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S. 52nd St. ,0.67058045
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S 52nd St. ,0.67058045
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S. 52nd St. ,0.67058045
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S 52nd St. ,0.6705804
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S. 52nd St. ,0.6705804
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S 52nd St. ,0.6705804
+Club Thirteen ,Forty-Six Club ,214 S. 13th St. ,46 S. 52nd St. ,0.6705804
+Parker Hotel Bar,Westbury Hotel Bar ,13th & Spruce,271 S. 15th St. ,0.6628704
+Westbury Hotel Bar ,Parker Hotel Bar,217 S. 15th St. ,13th & Spruce,0.6628704
+Parker Hotel Bar,Westbury Hotel Bar ,13th & Spruce,271 S. 15th St. ,0.6628704
+Parker Hotel Bar,Westbury Hotel Bar ,13th & Spruce,271 S. 15th St. ,0.6628704
+Parker Hotel Bar,Westbury Hotel Bar ,13th & Spruce,217 S. 15th St. ,0.6628702
+Parker Hotel Bar,Westbury Hotel Bar ,13th & Spruce,271 S. 15th St. ,0.6628702
+R.D. Club,Penrose Club ,13th & Locust,1415 Locust ,0.6625595
+R.D. Club,Penrose Club ,13th & Locust,1415 Locust ,0.66255945
+Penrose Club ,R.D. Club,1415 Locust,13th & Locust,0.6625594
+R.D. Club,The Penrose Club ,13th & Locust,1415 Locust ,0.6528554
+Spruce St. from 11th to 21st,Spruce St. from Broad St. to area of Rittenhouse Square,,,0.6384781
+Forrest Bar ,Teddy's Bar ,206 S. Quince ,418 S. 18th St. ,0.6333583
+Forrest Bar ,Teddy's bar,206 S. Quince ,Broad & Olney,0.6333583
+Forrest Bar ,Teddy's Bar ,206 S. Quince ,418 S. 18th St. ,0.6333583
+Forrest Bar ,Teddy's Bar ,206 S. Quince ,418 S. 18th St. ,0.6333583
+Forrest Bar ,Teddy's bar,206 S. Quince ,Broad & Olney,0.6333583
+Forrest Bar ,Teddy's Bar ,206 S. Quince ,418 S. 18th St. ,0.6333583
+Teddy's Bar ,Forrest Bar ,418 S. 18th St. ,206 S. Quince ,0.6333583
+Teddy's Bar ,Forrest Bar ,418 S. 18th St. ,206 S. Quince ,0.6333583
+Forrest Bar ,Teddy's bar,206 S. Quince ,Broad & Olney,0.6333583
+Forrest Bar ,Teddy's Bar ,206 S. Quince ,418 S. 18th St. ,0.6333583
+Forrest Bar ,Teddy's bar,206 S. Quince ,Broad & Olney,0.6333583
+Forrest Bar ,Teddy's Bar ,206 S. Quince ,418 S. 18th St. ,0.6333583
+C.R. Club ,Penrose Club ,6400 Market ,1415 Locust,0.6106347
+C.R. Club ,Penrose Club ,6400 Market ,1415 Locust ,0.6106347
+C.R. Club ,Penrose Club ,6400 Market ,1415 Locust ,0.6106346
+Two-Forty-Seven ,Forty-Six Club ,247 17th St. ,46 S 52nd St. ,0.60811955
+Two-Forty-Seven ,Forty-Six Club ,247 17th St. ,46 S. 52nd St. ,0.60811955
+C.R. Club ,The Penrose Club ,6400 Market ,1415 Locust ,0.6068874
+R.D. Club,V.I.P. Club,13th & Locust,,0.604307
+R.D. Club,V.I.P Club,13th & Locust,,0.604307
+C.R. Club ,Club Thirteen ,6400 Market ,214 S. 13th St. ,0.6033085
+C.R. Club ,Club Thirteen ,6400 Market ,214 S. 13th St. ,0.60330844
+C.R. Club ,Club Thirteen ,6400 Market ,214 S. 13th St. ,0.60330844
+C.R. Club ,Club Thirteen ,6400 Market ,214 S. 13th St. ,0.60330844
+Forty-Six Club ,The Penrose Club ,46 S 52nd St. ,1415 Locust ,0.59381545
+Forty-Six Club ,The Penrose Club ,46 S. 52nd St. ,1415 Locust ,0.59381545
+Club Thirteen ,R.D. Club,214 S. 13th St. ,13th & Locust,0.591873
+R.D. Club,Club Thirteen ,13th & Locust,214 S. 13th St. ,0.5918728
+R.D. Club,Club Thirteen ,13th & Locust,214 S. 13th St. ,0.5918728
+R.D. Club,Club Thirteen ,13th & Locust,214 S. 13th St. ,0.5918728
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust ,0.5814916
+Penrose Club ,Club Thirteen ,1415 Locust ,214 S. 13th St. ,0.5814916
+Penrose Club ,Club Thirteen ,1415 Locust ,214 S. 13th St. ,0.5814916
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust ,0.58149153
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust ,0.5814914
+Penrose Club ,Club Thirteen ,1415 Locust,214 S. 13th St. ,0.5814914
+Penrose Club ,Club Thirteen ,1415 Locust,214 S. 13th St. ,0.5814914
+Penrose Club ,Club Thirteen ,1415 Locust,214 S. 13th St. ,0.5814914
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust ,0.5814914
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust,0.58149135
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust ,0.58149135
+Club Thirteen ,Penrose Club ,214 S. 13th St. ,1415 Locust ,0.58149135
+Club Thirteen ,V.I.P. Club,214 S. 13th St. ,,0.57905036
+Club Thirteen ,V.I.P Club,214 S. 13th St. ,,0.57905036
+V.I.P. Club,Club Thirteen ,,214 S. 13th St. ,0.57905036
+V.I.P. Club,Club Thirteen ,,214 S. 13th St. ,0.57905036
+V.I.P Club,Club Thirteen ,,214 S. 13th St. ,0.57905036
+V.I.P Club,Club Thirteen ,,214 S. 13th St. ,0.57905036
+V.I.P. Club,Club Thirteen ,,214 S. 13th St. ,0.5790501
+Club Thirteen ,V.I.P Club,214 S. 13th St. ,,0.5790501
+R.D. Club,P.B.L Club ,13th & Locust,204 S. Quince ,0.5776192
+R.D. Club,PBL Club ,13th & Locust,204 Quince ,0.5776192
+P.B.L. Club ,R.D. Club,204 S. Quince ,13th & Locust,0.57761914
+Club Thirteen ,The Penrose Club ,214 S. 13th St. ,1415 Locust ,0.5764089
+Club Thirteen ,The Penrose Club ,214 S. 13th St. ,1415 Locust ,0.5764089
+Club Thirteen ,The Penrose Club ,214 S. 13th St. ,1415 Locust ,0.57640874
+Club Thirteen ,The Penrose Club ,214 S. 13th St. ,1415 Locust ,0.57640874
+C.R. Club ,Forty-Six Club ,6400 Market ,46 S 52nd St. ,0.5713746
+C.R. Club ,Forty-Six Club ,6400 Market ,46 S. 52nd St. ,0.5713746
+Penrose Club ,Forty-Six Club ,1415 Locust ,46 S 52nd St. ,0.56958854
+Penrose Club ,Forty-Six Club ,1415 Locust ,46 S. 52nd St. ,0.56958854
+Penrose Club ,Forty-Six Club ,1415 Locust,46 S 52nd St. ,0.5695883
+Penrose Club ,Forty-Six Club ,1415 Locust,46 S. 52nd St. ,0.5695883
+Forty-Six Club ,Penrose Club ,46 S 52nd St. ,1415 Locust ,0.56958824
+Forty-Six Club ,Penrose Club ,46 S. 52nd St. ,1415 Locust ,0.56958824
+P.B.L. Club ,V.I.P. Club,204 S. Quince ,,0.5586661
+P.B.L. Club ,V.I.P Club,204 S. Quince ,,0.5586661
+V.I.P. Club,PBL Club ,,204 Quince ,0.5586661
+V.I.P Club,PBL Club ,,204 Quince ,0.5586661
+V.I.P. Club,P.B.L Club ,,204 S. Quince ,0.558666
+P.B.L Club ,V.I.P Club,204 S. Quince ,,0.558666
+C.R. Club ,P.B.L. Club ,6400 Market ,204 S. Quince ,0.55860853
+C.R. Club ,P.B.L Club ,6400 Market ,204 S. Quince ,0.55860835
+C.R. Club ,PBL Club ,6400 Market ,204 Quince ,0.55860835
+C.R. Club ,V.I.P. Club,6400 Market ,,0.55480707
+C.R. Club ,V.I.P Club,6400 Market ,,0.55480707
+V.I.P. Club,Forty-Six Club ,,46 S 52nd St. ,0.5408366
+V.I.P. Club,Forty-Six Club ,,46 S. 52nd St. ,0.5408366
+V.I.P Club,Forty-Six Club ,,46 S 52nd St. ,0.5408366
+V.I.P Club,Forty-Six Club ,,46 S. 52nd St. ,0.5408366
+Ritz Bar,SK Bar ,13th near Market,2 S. Mole St. ,0.53928787
+Ritz Bar,SK Bar ,13th near Market,2 S. Mole St. ,0.53928787
+Parker Hotel Bar,Westbury Hotel ,13th & Spruce,271 S 15th St. ,0.5326396
+Parker Hotel Bar,Westbury Hotel ,13th & Spruce,271 S 15th St. ,0.5326396
+R.D. Club,Forty-Six Club ,13th & Locust,46 S 52nd St. ,0.53070706
+R.D. Club,Forty-Six Club ,13th & Locust,46 S. 52nd St. ,0.53070706
+V.I.P. Club,The Penrose Club ,,1415 Locust ,0.5275468
+V.I.P Club,The Penrose Club ,,1415 Locust ,0.5275468
+P.B.L. Club ,The Penrose Club ,204 S. Quince ,1415 Locust ,0.52683765
+P.B.L Club ,The Penrose Club ,204 S. Quince ,1415 Locust ,0.52683765
+PBL Club ,The Penrose Club ,204 Quince ,1415 Locust ,0.5268376
+V.I.P. Club,Penrose Club ,,1415 Locust ,0.5261731
+Penrose Club ,V.I.P Club,1415 Locust ,,0.5261731
+Penrose Club ,V.I.P. Club,1415 Locust,,0.52617306
+Penrose Club ,V.I.P Club,1415 Locust,,0.52617306
+V.I.P. Club,Penrose Club ,,1415 Locust ,0.52617306
+V.I.P Club,Penrose Club ,,1415 Locust ,0.52617306
+P.B.L. Club ,Penrose Club ,204 S. Quince ,1415 Locust ,0.52051485
+Penrose Club ,P.B.L Club ,1415 Locust,204 S. Quince ,0.52051485
+Penrose Club ,PBL Club ,1415 Locust,204 Quince ,0.52051485
+P.B.L Club ,Penrose Club ,204 S. Quince ,1415 Locust ,0.52051485
+P.B.L. Club ,Penrose Club ,204 S. Quince ,1415 Locust ,0.5205148
+Penrose Club ,PBL Club ,1415 Locust ,204 Quince ,0.5205148
+P.B.L. Club ,Penrose Club ,204 S. Quince ,1415 Locust,0.52051455
+P.B.L Club ,Penrose Club ,204 S. Quince ,1415 Locust ,0.52051455
+PBL Club ,Penrose Club ,204 Quince ,1415 Locust ,0.52051455
+SK Bar ,Teddy's bar,2 S. Mole St. ,Broad & Olney,0.5141513
+SK Bar ,Teddy's Bar ,2 S. Mole St. ,418 S. 18th St. ,0.5141513
+Teddy's Bar ,SK Bar ,418 S. 18th St. ,2 S. Mole St. ,0.51415116
+Forrest Bar ,Ritz Bar,206 S. Quince ,13th near Market,0.5080126
+Forrest Bar ,Ritz Bar,206 S. Quince ,13th near Market,0.5080126
+Forrest Bar ,Ritz Bar,206 S. Quince ,13th near Market,0.5080125
+Ritz Bar,Forrest Bar ,13th near Market,206 S. Quince ,0.5080125
+Ritz Bar,Forrest Bar ,13th near Market,206 S. Quince ,0.5080125
+Ritz Bar,Forrest Bar ,13th near Market,206 S. Quince ,0.5080125
+Ritz Bar,Forrest Bar ,13th near Market,206 S. Quince ,0.5080125
+Ritz Bar,Forrest Bar ,13th near Market,206 S. Quince ,0.5080125
+Club Thirteen ,P.B.L Club ,214 S. 13th St. ,204 S. Quince ,0.5022537
+Club Thirteen ,PBL Club ,214 S. 13th St. ,204 Quince ,0.5022537
+P.B.L. Club ,Club Thirteen ,204 S. Quince ,214 S. 13th St. ,0.5022537
+P.B.L. Club ,Club Thirteen ,204 S. Quince ,214 S. 13th St. ,0.5022537
+P.B.L. Club ,Club Thirteen ,204 S. Quince ,214 S. 13th St. ,0.5022537
+Club Thirteen ,PBL Club ,214 S. 13th St. ,204 Quince ,0.5022537
+P.B.L Club ,Club Thirteen ,204 S. Quince ,214 S. 13th St. ,0.5022537
+P.B.L Club ,Club Thirteen ,204 S. Quince ,214 S. 13th St. ,0.5022537
+Club Thirteen ,P.B.L. Club ,214 S. 13th St. ,204 S. Quince ,0.50225365
+Club Thirteen ,P.B.L Club ,214 S. 13th St. ,204 S. Quince ,0.50225365
+Club Thirteen ,PBL Club ,214 S. 13th St. ,204 Quince ,0.50225365
+Club Thirteen ,PBL Club ,214 S. 13th St. ,204 Quince ,0.50225365
+Parker Hotel Bar,Teddy's Bar ,13th & Spruce,418 S. 18th St. ,0.49383825
+Parker Hotel Bar,Teddy's bar,13th & Spruce,Broad & Olney,0.49383825
+Parker Hotel Bar,Teddy's Bar ,13th & Spruce,418 S. 18th St. ,0.49383825
+Parker Hotel Bar,Teddy's bar,13th & Spruce,Broad & Olney,0.49383825
+Parker Hotel Bar,Teddy's Bar ,13th & Spruce,418 S. 18th St. ,0.49383825
+Parker Hotel Bar,Teddy's Bar ,13th & Spruce,418 S. 18th St. ,0.4938382
+Parker Hotel Bar,V.I.P. Club,13th & Spruce,,0.48977357
+Parker Hotel Bar,V.I.P Club,13th & Spruce,,0.48977357
+V.I.P. Club,Parker Hotel Bar,,13th & Spruce,0.48977345
+Parker Hotel Bar,V.I.P Club,13th & Spruce,,0.48977345
+Forrest Bar ,Parker Hotel Bar,206 S. Quince ,13th & Spruce,0.4852449
+Parker Hotel Bar,Forrest Bar ,13th & Spruce,206 S. Quince ,0.4852449
+Parker Hotel Bar,Forrest Bar ,13th & Spruce,206 S. Quince ,0.4852449
+Parker Hotel Bar,Forrest Bar ,13th & Spruce,206 S. Quince ,0.4852449
+Parker Hotel Bar,Forrest Bar ,13th & Spruce,206 S. Quince ,0.4852449
+Parker Hotel Bar,Forrest Bar ,13th & Spruce,206 S. Quince ,0.4852449
+Forrest Bar ,Parker Hotel Bar,206 S. Quince ,13th & Spruce,0.4852448
+Forrest Bar ,Parker Hotel Bar,206 S. Quince ,13th & Spruce,0.4852448
+Forrest Bar ,SK Bar ,206 S. Quince ,2 S. Mole St. ,0.482382
+Forrest Bar ,SK Bar ,206 S. Quince ,2 S. Mole St. ,0.482382
+Forrest Bar ,SK Bar ,206 S. Quince ,2 S. Mole St. ,0.482382
+Forrest Bar ,SK Bar ,206 S. Quince ,2 S. Mole St. ,0.482382
+P.B.L. Club ,Forty-Six Club ,204 S. Quince ,46 S 52nd St. ,0.48109382
+P.B.L. Club ,Forty-Six Club ,204 S. Quince ,46 S. 52nd St. ,0.48109382
+P.B.L Club ,Forty-Six Club ,204 S. Quince ,46 S 52nd St. ,0.48109382
+P.B.L Club ,Forty-Six Club ,204 S. Quince ,46 S. 52nd St. ,0.48109382
+Forty-Six Club ,PBL Club ,46 S 52nd St. ,204 Quince ,0.4810937
+Forty-Six Club ,PBL Club ,46 S. 52nd St. ,204 Quince ,0.4810937
+Baron's Variety Lounge ,V.I.P. Club,1116 Walnut ,,0.4758286
+Baron's Variety Lounge ,V.I.P Club,1116 Walnut ,,0.4758286
+Foster House ,Attic ,207 S. Quince ,5710 Germantown ,0.47562906
+Foster House ,Attic ,207 S. Quince ,5710 Germantown ,0.47562906
+Foster House ,Attic ,207 S. Quince ,5710 Germantown,0.47562903
+Attic ,Foster House ,5710 Germantown,207 S. Quince ,0.47562894
+Westbury Hotel Bar ,Teddy's Bar ,217 S. 15th St. ,418 S. 18th St. ,0.47256374
+Teddy's Bar ,Westbury Hotel Bar ,418 S. 18th St. ,271 S. 15th St. ,0.47256374
+Teddy's Bar ,Westbury Hotel Bar ,418 S. 18th St. ,271 S. 15th St. ,0.47256374
+Teddy's bar,Westbury Hotel Bar ,Broad & Olney,271 S. 15th St. ,0.47256374
+Teddy's Bar ,Westbury Hotel Bar ,418 S. 18th St. ,271 S. 15th St. ,0.47256374
+Westbury Hotel Bar ,Teddy's bar,217 S. 15th St. ,Broad & Olney,0.4725636
+Westbury Hotel Bar ,Teddy's Bar ,217 S. 15th St. ,418 S. 18th St. ,0.4725636
+Westbury Hotel Bar ,Teddy's bar,271 S. 15th St. ,Broad & Olney,0.4725636
+Westbury Hotel Bar ,Teddy's Bar ,271 S. 15th St. ,418 S. 18th St. ,0.4725636
+R.D. Club,Westbury Hotel Bar ,13th & Locust,217 S. 15th St. ,0.47096127
+R.D. Club,Westbury Hotel Bar ,13th & Locust,271 S. 15th St. ,0.47096127
+R.D. Club,Westbury Hotel Bar ,13th & Locust,271 S. 15th St. ,0.47096118
+Carey's,Frank's ,23rd & Fairmount,347 S. 13th ,0.46458095
+Ritz Bar,Teddy's Bar ,13th near Market,418 S. 18th St. ,0.46262774
+Ritz Bar,Teddy's bar,13th near Market,Broad & Olney,0.46262774
+Ritz Bar,Teddy's Bar ,13th near Market,418 S. 18th St. ,0.46262774
+Ritz Bar,Teddy's bar,13th near Market,Broad & Olney,0.46262774
+Ritz Bar,Teddy's Bar ,13th near Market,418 S. 18th St. ,0.46262774
+Ritz Bar,Teddy's Bar ,13th near Market,418 S. 18th St. ,0.46262768
+Baron's Variety Lounge ,R.D. Club,1116 Walnut ,13th & Locust,0.45934927
+Baron's Variety Lounge ,Westbury Hotel Bar ,1116 Walnut ,217 S. 15th St. ,0.45574784
+Baron's Variety Lounge ,Westbury Hotel Bar ,1116 Walnut ,271 S. 15th St. ,0.45574784
+Baron's Variety Lounge ,Westbury Hotel Bar ,1116 Walnut ,271 S. 15th St. ,0.45574778
+C.R. Club ,SK Bar ,6400 Market ,2 S. Mole St. ,0.45002127
+V.I.P. Club,Westbury Hotel Bar ,,217 S. 15th St. ,0.44783646
+V.I.P. Club,Westbury Hotel Bar ,,271 S. 15th St. ,0.44783646
+V.I.P. Club,Westbury Hotel Bar ,,271 S. 15th St. ,0.44783646
+Westbury Hotel Bar ,V.I.P Club,217 S. 15th St. ,,0.44783646
+V.I.P Club,Westbury Hotel Bar ,,271 S. 15th St. ,0.44783646
+V.I.P Club,Westbury Hotel Bar ,,271 S. 15th St. ,0.44783646
+Jay's Place Book Store ,Dewey's Coffee Shop,1344 Spruce St. ,13th & Chancellor,0.44060504
+Jay's Place Book Store ,Dewey's Coffee Shop,1344 Spruce St. ,17th & Chancelor,0.44060504
+Dewey's Coffee Shop,Jay's Place Book Store ,13th & Chancellor,1344 Spruce St. ,0.44060493
+Dewey's Coffee Shop,Jay's Place Book Store ,17th & Chancellor,1344 Spruce St. ,0.44060493
+Parker Hotel Bar,Ritz Bar,13th & Spruce,13th near Market,0.43718803
+Parker Hotel Bar,Ritz Bar,13th & Spruce,13th near Market,0.43718803
+Parker Hotel Bar,Ritz Bar,13th & Spruce,13th near Market,0.43718794
+Ritz Bar,Parker Hotel Bar,13th near Market,13th & Spruce,0.43718794
+Pirate's Den,Rendezvous II,210 S. Camac ,1308 Drury Lane ,0.43580884
+Baron's Variety Lounge ,Parker Hotel Bar,1116 Walnut ,13th & Spruce,0.43574876
+Baron's Variety Lounge ,Parker Hotel Bar,1116 Walnut ,13th & Spruce,0.43574876
+Midway,Pirate's Den,256 S. 12th St. ,210 S. Camac ,0.43360114
+Pirate's Den,Midway ,210 S. Camac ,256 S. 12th St. ,0.43360114
+Pirate's Den,Midway ,210 S. Camac ,256 S. 12th St. ,0.43360114
+Pirate's Den,Midway ,210 S. Camac ,256 S. 12th St. ,0.43360114
+Parker Hotel Bar,SK Bar ,13th & Spruce,2 S. Mole St. ,0.43134785
+Parker Hotel Bar,SK Bar ,13th & Spruce,2 S. Mole St. ,0.43134785
+Baron's Variety Lounge ,P.B.L. Club ,1116 Walnut ,204 S. Quince ,0.4309723
+Baron's Variety Lounge ,P.B.L Club ,1116 Walnut ,204 S. Quince ,0.4309723
+Baron's Variety Lounge ,PBL Club ,1116 Walnut ,204 Quince ,0.4309723
+R.D. Club,Westbury Hotel ,13th & Locust,271 S 15th St. ,0.4300915
+Ritz Bar,Westbury Hotel Bar ,13th near Market,217 S. 15th St. ,0.42520508
+Ritz Bar,Westbury Hotel Bar ,13th near Market,271 S. 15th St. ,0.42520508
+Ritz Bar,Westbury Hotel Bar ,13th near Market,271 S. 15th St. ,0.42520487
+Westbury Hotel Bar ,Ritz Bar,217 S. 15th St. ,13th near Market,0.42520487
+Ritz Bar,Westbury Hotel Bar ,13th near Market,271 S. 15th St. ,0.42520487
+Ritz Bar,Westbury Hotel Bar ,13th near Market,271 S. 15th St. ,0.42520487
+Rusty's,Buddy's,Quince & Walnut,13th & Commerce,0.4250513
+Rusty's,Buddy's,Quince & Walnut,13th & Commerce,0.42505115
+R.D. Club,SK Bar ,13th & Locust,2 S. Mole St. ,0.4217477
+Drury Lane ,Rittenhouse Square,1304 Drury Lane ,,0.41383776
+Rittenhouse Square,Drury Lane ,,1304 Drury Lane ,0.41383767
+Rittenhouse Square,Drury Lane,,1308 Drury Lane,0.41383767
+Rittenhouse Square,Drury Lane ,,1308 Drury ,0.41383767
+V.I.P. Club,Rendezvous II,,1308 Drury Lane ,0.41186517
+Rendezvous II,V.I.P Club,1308 Drury Lane ,,0.41186517
+Parker Hotel Bar,R.D. Club,13th & Spruce,13th & Locust,0.41004577
+R.D. Club,Parker Hotel Bar,13th & Locust,13th & Spruce,0.41004577
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,271 S. 15th St. ,0.40837115
+Westbury Hotel Bar ,Forrest Bar ,217 S. 15th St. ,206 S. Quince ,0.40837115
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,271 S. 15th St. ,0.40837115
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,271 S. 15th St. ,0.40837115
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,271 S. 15th St. ,0.40837115
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,271 S. 15th St. ,0.40837115
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,217 S. 15th St. ,0.40837112
+Forrest Bar ,Westbury Hotel Bar ,206 S. Quince ,271 S. 15th St. ,0.40837112
+Westbury Hotel Bar ,Forrest Bar ,217 S. 15th St. ,206 S. Quince ,0.40837112
+Westbury Hotel Bar ,Forrest Bar ,217 S. 15th St. ,206 S. Quince ,0.40837112
+Westbury Hotel Bar ,Forrest Bar ,271 S. 15th St. ,206 S. Quince ,0.40837112
+Westbury Hotel Bar ,Forrest Bar ,271 S. 15th St. ,206 S. Quince ,0.40837112
+Midway,Rendezvous II,256 S. 12th St. ,1308 Drury Lane ,0.40836915
+Rendezvous II,Midway ,1308 Drury Lane ,256 S. 12th St. ,0.40836915
+Rendezvous II,Midway ,1308 Drury Lane ,256 S. 12th St. ,0.40836915
+Midway ,Rendezvous II,256 S. 12th St. ,1308 Drury Lane ,0.408369
+Drury Lane ,Westbury Hotel ,1304 Drury Lane ,271 S 15th St. ,0.40809837
+Drury Lane ,Westbury Hotel ,1304 Drury Lane ,271 S 15th St. ,0.40809837
+Drury Lane,Westbury Hotel ,1308 Drury Lane,271 S 15th St. ,0.40809837
+Drury Lane ,Westbury Hotel ,1308 Drury ,271 S 15th St. ,0.40809837
+Drury Lane ,R.D. Club,1304 Drury Lane ,13th & Locust,0.40728718
+R.D. Club,Drury Lane ,13th & Locust,1304 Drury Lane ,0.40728703
+R.D. Club,Drury Lane,13th & Locust,1308 Drury Lane,0.40728703
+R.D. Club,Drury Lane ,13th & Locust,1308 Drury ,0.40728703
+Baron's Variety Lounge ,Westbury Hotel ,1116 Walnut ,271 S 15th St. ,0.40459636
+Ritz Bar,Terminal Bar,13th near Market,Broad & Olney,0.40251285
+Ritz Bar,Terminal Bar,13th near Market,Broad & Olney,0.40251282
+Ritz Bar,Terminal Bar,13th near Market,Broad & Olney,0.40251282
+Ritz Bar,Terminal bar,13th near Market,Broad & Olner,0.40251282
+Ritz Bar,Terminal Bar,13th near Market,Broad & Olney,0.40251282
+Ritz Bar,Terminal bar,13th near Market,Broad & Olner,0.40251282
+V.I.P. Club,Varsity Room,,Quince & Walnut,0.40178996
+V.I.P Club,Varsity Room,,Quince & Walnut,0.40178996
+Foster House ,Varsity Room,207 S. Quince ,Quince & Walnut,0.40150023
+Club Thirteen ,Track Seven,214 S. 13th St. ,1226 Filbert ,0.39944625
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944625
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944625
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944625
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944625
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944625
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944607
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944607
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944607
+Track Seven,Club Thirteen ,1226 Filbert ,214 S. 13th St. ,0.39944607
+Track Seven,Club Thirteen ,1226 Filbert ,214 S. 13th St. ,0.39944607
+Track Seven,Club Thirteen ,1226 Filbert ,214 S. 13th St. ,0.39944607
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944607
+Club Thirteen ,Track Seven ,214 S. 13th St. ,1226 Filbert ,0.39944607
+Track Seven ,Club Thirteen ,1226 Filbert ,214 S. 13th St. ,0.39944607
+Track Seven ,Club Thirteen ,1226 Filbert ,214 S. 13th St. ,0.39944607
+Terminal Bar,SK Bar ,Broad & Olney,2 S. Mole St. ,0.39884472
+SK Bar ,Terminal Bar,2 S. Mole St. ,Broad & Olney,0.39884448
+SK Bar ,Terminal bar,2 S. Mole St. ,Broad & Olner,0.39884448
+R.D. Club,Teddy's Bar ,13th & Locust,418 S. 18th St. ,0.39814
+R.D. Club,Teddy's bar,13th & Locust,Broad & Olney,0.39814
+R.D. Club,Teddy's Bar ,13th & Locust,418 S. 18th St. ,0.39814
+Rittenhouse Square,Varsity Room,,Quince & Walnut,0.39442587
+Pirate's Den,Peyton Place ,210 S. Camac ,1308 Drury Lane ,0.3936539
+Club Thirteen ,Varsity Room,214 S. 13th St. ,Quince & Walnut,0.39363542
+Club Thirteen ,Varsity Room,214 S. 13th St. ,Quince & Walnut,0.39363542
+Club Thirteen ,Varsity Room,214 S. 13th St. ,Quince & Walnut,0.39363533
+Club Thirteen ,Varsity Room,214 S. 13th St. ,Quince & Walnut,0.39363533
+Baron's Variety Lounge ,C.R. Club ,1116 Walnut ,6400 Market ,0.3928505
+V.I.P. Club,Ritz Bar,,13th near Market,0.39082396
+Ritz Bar,V.I.P Club,13th near Market,,0.39082396
+Ritz Bar,V.I.P. Club,13th near Market,,0.39082393
+Ritz Bar,V.I.P Club,13th near Market,,0.39082393
+V.I.P. Club,SK Bar ,,2 S. Mole St. ,0.38978332
+V.I.P Club,SK Bar ,,2 S. Mole St. ,0.38978332
+Baron's Variety Lounge ,SK Bar ,1116 Walnut ,2 S. Mole St. ,0.38965493
+Allegro ,Rendezvous II,1412 Spruce ,1308 Drury Lane ,0.38954255
+Rendezvous II,Allegro ,1308 Drury Lane ,1412 Spruce ,0.38954255
+Rendezvous II,Allegro ,1308 Drury Lane ,1412 Spruce ,0.38954255
+Allegro ,Rendezvous II,1412 Spruce ,1308 Drury Lane ,0.38954246
+Dewey's Coffee Shop,Parson's Table ,13th & Chancellor,26 S. Front St. ,0.3891571
+Dewey's Coffee Shop,Parson's Table ,13th & Chancellor,26 S. Front St. ,0.3891571
+Dewey's Coffee Shop,Parson's Table ,17th & Chancellor,26 S. Front St. ,0.3891571
+Dewey's Coffee Shop,Parson's Table ,17th & Chancellor,26 S. Front St. ,0.3891571
+Parson's Table ,Dewey's Coffee Shop,26 S. Front St. ,13th & Chancellor,0.3891571
+Parson's Table ,Dewey's Coffee Shop,26 S. Front St. ,17th & Chancelor,0.3891571
+Dewey's Coffee Shop,Parson's Table ,13th & Chancellor,26 S. Front St. ,0.3891571
+Dewey's Coffee Shop,Parson's Table ,17th & Chancelor,26 S. Front St. ,0.3891571
+Forty-Six Club ,Track Seven ,46 S 52nd St. ,1226 Filbert ,0.3885323
+Forty-Six Club ,Track Seven ,46 S 52nd St. ,1226 Filbert ,0.3885323
+Forty-Six Club ,Track Seven ,46 S. 52nd St. ,1226 Filbert ,0.3885323
+Forty-Six Club ,Track Seven ,46 S. 52nd St. ,1226 Filbert ,0.3885323
+Track Seven,Forty-Six Club ,1226 Filbert ,46 S 52nd St. ,0.38853222
+Track Seven,Forty-Six Club ,1226 Filbert ,46 S. 52nd St. ,0.38853222
+Track Seven ,Forty-Six Club ,1226 Filbert ,46 S 52nd St. ,0.38853222
+Track Seven ,Forty-Six Club ,1226 Filbert ,46 S. 52nd St. ,0.38853222
+Drury Lane ,Varsity Room,1304 Drury Lane ,Quince & Walnut,0.38746834
+Drury Lane ,Varsity Room,1304 Drury Lane ,Quince & Walnut,0.38746834
+Drury Lane,Varsity Room,1308 Drury Lane,Quince & Walnut,0.38746822
+Drury Lane ,Varsity Room,1308 Drury ,Quince & Walnut,0.38746822
+P.B.L. Club ,SK Bar ,204 S. Quince ,2 S. Mole St. ,0.38727477
+P.B.L Club ,SK Bar ,204 S. Quince ,2 S. Mole St. ,0.38727477
+PBL Club ,SK Bar ,204 Quince ,2 S. Mole St. ,0.38727468
+Dewey's Coffee Shop,Teddy's Bar ,13th & Chancellor,418 S. 18th St. ,0.3869217
+Dewey's Coffee Shop,Teddy's bar,13th & Chancellor,Broad & Olney,0.3869217
+Dewey's Coffee Shop,Teddy's Bar ,13th & Chancellor,418 S. 18th St. ,0.3869217
+Dewey's Coffee Shop,Teddy's Bar ,17th & Chancellor,418 S. 18th St. ,0.3869217
+Dewey's Coffee Shop,Teddy's bar,17th & Chancellor,Broad & Olney,0.3869217
+Dewey's Coffee Shop,Teddy's Bar ,17th & Chancellor,418 S. 18th St. ,0.3869217
+Dewey's Coffee Shop,Teddy's bar,13th & Chancellor,Broad & Olney,0.3869217
+Dewey's Coffee Shop,Teddy's Bar ,13th & Chancellor,418 S. 18th St. ,0.3869217
+Dewey's Coffee Shop,Teddy's bar,17th & Chancelor,Broad & Olney,0.3869217
+Dewey's Coffee Shop,Teddy's Bar ,17th & Chancelor,418 S. 18th St. ,0.3869217
+Dewey's Coffee Shop,Teddy's Bar ,13th & Chancellor,418 S. 18th St. ,0.38692164
+Dewey's Coffee Shop,Teddy's Bar ,17th & Chancelor,418 S. 18th St. ,0.38692164
+Attic ,Varsity Room,5710 Germantown,Quince & Walnut,0.38586536
+Attic ,Varsity Room,5710 Germantown,Quince & Walnut,0.3858653
+Attic ,Varsity Room,5710 Germantown ,Quince & Walnut,0.3858653
+Attic ,Varsity Room,5710 Germantown ,Quince & Walnut,0.3858653
+Pirate's Den,P.B.L Club ,210 S. Camac ,204 S. Quince ,0.38356507
+Pirate's Den,PBL Club ,210 S. Camac ,204 Quince ,0.38356507
+P.B.L. Club ,Pirate's Den,204 S. Quince ,210 S. Camac ,0.38356498
+Club Thirteen ,Parker Hotel Bar,214 S. 13th St. ,13th & Spruce,0.382872
+Club Thirteen ,Parker Hotel Bar,214 S. 13th St. ,13th & Spruce,0.382872
+Club Thirteen ,Parker Hotel Bar,214 S. 13th St. ,13th & Spruce,0.3828719
+Parker Hotel Bar,Club Thirteen ,13th & Spruce,214 S. 13th St. ,0.3828719
+Parker Hotel Bar,Club Thirteen ,13th & Spruce,214 S. 13th St. ,0.3828719
+Parker Hotel Bar,Club Thirteen ,13th & Spruce,214 S. 13th St. ,0.3828719
+Parker Hotel Bar,Club Thirteen ,13th & Spruce,214 S. 13th St. ,0.3828719
+Parker Hotel Bar,Club Thirteen ,13th & Spruce,214 S. 13th St. ,0.3828719
+Parson's Table ,The Penrose Club ,26 S. Front St. ,1415 Locust ,0.38209388
+Parson's Table ,The Penrose Club ,26 S. Front St. ,1415 Locust ,0.38209388
+Indian Queen ,My Sisters,1725 J. F. Kennedy Blvd. ,,0.38204727
+Indian Queen ,My Sisters,1725 J. F. Kennedy Blvd. ,,0.38204715
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Track Seven,Allegro ,1226 Filbert ,1412 Spruce ,0.38179842
+Track Seven,Allegro ,1226 Filbert ,1412 Spruce ,0.38179842
+Track Seven,Allegro ,1226 Filbert ,1412 Spruce ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179842
+Allegro ,Track Seven,1412 Spruce ,1226 Filbert ,0.38179824
+Allegro ,Track Seven ,1412 Spruce ,1226 Filbert ,0.38179824
+Track Seven ,Allegro ,1226 Filbert ,1412 Spruce ,0.38179824
+Track Seven ,Allegro ,1226 Filbert ,1412 Spruce ,0.38179824
+C.R. Club ,Parker Hotel Bar,6400 Market ,13th & Spruce,0.37985808
+C.R. Club ,Parker Hotel Bar,6400 Market ,13th & Spruce,0.3798579
+Two-Forty-Seven ,Track Seven ,247 17th St. ,1226 Filbert ,0.3794006
+Two-Forty-Seven ,Track Seven ,247 17th St. ,1226 Filbert ,0.3794006
+Two-Forty-Seven ,Track Seven ,247 17th St. ,1226 Filbert ,0.3794006
+Track Seven,Two-Forty-Seven ,1226 Filbert ,247 17th St. ,0.37940043
+Drury Lane ,Westbury Hotel Bar ,1304 Drury Lane ,217 S. 15th St. ,0.37884995
+Drury Lane ,Westbury Hotel Bar ,1304 Drury Lane ,271 S. 15th St. ,0.37884995
+Westbury Hotel Bar ,Drury Lane,217 S. 15th St. ,1308 Drury Lane,0.37884995
+Westbury Hotel Bar ,Drury Lane ,217 S. 15th St. ,1308 Drury ,0.37884995
+Westbury Hotel Bar ,Drury Lane,271 S. 15th St. ,1308 Drury Lane,0.37884995
+Westbury Hotel Bar ,Drury Lane ,271 S. 15th St. ,1308 Drury ,0.37884995
+Drury Lane ,Westbury Hotel Bar ,1304 Drury Lane ,271 S. 15th St. ,0.37884983
+Westbury Hotel Bar ,Drury Lane ,217 S. 15th St. ,1304 Drury Lane ,0.37884983
+Drury Lane ,Westbury Hotel Bar ,1304 Drury Lane ,271 S. 15th St. ,0.37884983
+Drury Lane ,Westbury Hotel Bar ,1304 Drury Lane ,271 S. 15th St. ,0.37884983
+Drury Lane,Westbury Hotel Bar ,1308 Drury Lane,271 S. 15th St. ,0.37884983
+Drury Lane ,Westbury Hotel Bar ,1308 Drury ,271 S. 15th St. ,0.37884983
+Teddy's Bar ,Peyton Place ,418 S. 18th St. ,1308 Drury Lane ,0.3781091
+Peyton Place ,Teddy's bar,1308 Drury Lane ,Broad & Olney,0.37810895
+Peyton Place ,Teddy's Bar ,1308 Drury Lane ,418 S. 18th St. ,0.37810895
+P.B.L. Club ,Parker Hotel Bar,204 S. Quince ,13th & Spruce,0.3776893
+P.B.L. Club ,Parker Hotel Bar,204 S. Quince ,13th & Spruce,0.3776893
+Parker Hotel Bar,P.B.L Club ,13th & Spruce,204 S. Quince ,0.3776893
+Parker Hotel Bar,PBL Club ,13th & Spruce,204 Quince ,0.3776893
+P.B.L Club ,Parker Hotel Bar,204 S. Quince ,13th & Spruce,0.3776893
+Parker Hotel Bar,PBL Club ,13th & Spruce,204 Quince ,0.3776893
+Parson's Table ,Penrose Club ,26 S. Front St. ,1415 Locust ,0.37753066
+Parson's Table ,Penrose Club ,26 S. Front St. ,1415 Locust ,0.3775306
+Parson's Table ,Penrose Club ,26 S. Front St. ,1415 Locust,0.37753057
+Parson's Table ,Penrose Club ,26 S. Front St. ,1415 Locust ,0.37753057
+Penrose Club ,Parson's Table ,1415 Locust,26 S. Front St. ,0.37753057
+Parson's Table ,Penrose Club ,26 S. Front St. ,1415 Locust ,0.37753057
+Drury Lane ,Penrose Club ,1304 Drury Lane ,1415 Locust ,0.37715015
+Penrose Club ,Drury Lane,1415 Locust ,1308 Drury Lane,0.37715015
+Penrose Club ,Drury Lane ,1415 Locust ,1308 Drury ,0.37715015
+Drury Lane ,Penrose Club ,1304 Drury Lane ,1415 Locust ,0.37715012
+Drury Lane ,Penrose Club ,1304 Drury Lane ,1415 Locust ,0.3771501
+Penrose Club ,Drury Lane ,1415 Locust,1304 Drury Lane ,0.3771501
+Penrose Club ,Drury Lane,1415 Locust,1308 Drury Lane,0.3771501
+Penrose Club ,Drury Lane ,1415 Locust,1308 Drury ,0.3771501
+Drury Lane ,Penrose Club ,1304 Drury Lane ,1415 Locust ,0.3771501
+Drury Lane ,Penrose Club ,1304 Drury Lane ,1415 Locust,0.37715
+Drury Lane,Penrose Club ,1308 Drury Lane,1415 Locust ,0.37715
+Drury Lane ,Penrose Club ,1308 Drury ,1415 Locust ,0.37715
+R.D. Club,Forrest Bar ,13th & Locust,206 S. Quince ,0.37643898
+R.D. Club,Forrest Bar ,13th & Locust,206 S. Quince ,0.37643898
+R.D. Club,Forrest Bar ,13th & Locust,206 S. Quince ,0.37643898
+Forrest Bar ,R.D. Club,206 S. Quince ,13th & Locust,0.3764389
+Attic ,Electric Factory ,5710 Germantown,2201 Arch ,0.37503117
+Attic ,Electric Factory ,5710 Germantown ,2201 Arch ,0.37503117
+Attic ,Electric Factory ,5710 Germantown ,2201 Arch ,0.37503117
+Attic ,Electric Factory ,5710 Germantown,2201 Arch ,0.37503105
+V.I.P. Club,Westbury Hotel ,,271 S 15th St. ,0.37489247
+V.I.P Club,Westbury Hotel ,,271 S 15th St. ,0.37489247
+C.R. Club ,Westbury Hotel Bar ,6400 Market ,217 S. 15th St. ,0.3741566
+C.R. Club ,Westbury Hotel Bar ,6400 Market ,271 S. 15th St. ,0.3741566
+C.R. Club ,Westbury Hotel Bar ,6400 Market ,271 S. 15th St. ,0.3741565
+Rittenhouse Square,Peyton Place ,,1308 Drury Lane ,0.37316716
+Foster House ,Rittenhouse Square,207 S. Quince ,,0.37052596
+Drury Lane ,Parson's Table ,1304 Drury Lane ,26 S. Front St. ,0.36779806
+Drury Lane ,Parson's Table ,1304 Drury Lane ,26 S. Front St. ,0.36779806
+Drury Lane ,Parson's Table ,1304 Drury Lane ,26 S. Front St. ,0.3677979
+Parson's Table ,Drury Lane ,26 S. Front St. ,1304 Drury Lane ,0.3677979
+Parson's Table ,Drury Lane,26 S. Front St. ,1308 Drury Lane,0.3677979
+Parson's Table ,Drury Lane ,26 S. Front St. ,1308 Drury ,0.3677979
+Parson's Table ,Drury Lane,26 S. Front St. ,1308 Drury Lane,0.3677979
+Parson's Table ,Drury Lane ,26 S. Front St. ,1308 Drury ,0.3677979
+Baron's Variety Lounge ,Varsity Room,1116 Walnut ,Quince & Walnut,0.36756977
+Club Thirteen ,Rendezvous II,214 S. 13th St. ,1308 Drury Lane ,0.36594224
+Club Thirteen ,Rendezvous II,214 S. 13th St. ,1308 Drury Lane ,0.36594218
+Rendezvous II,Club Thirteen ,1308 Drury Lane ,214 S. 13th St. ,0.36594218
+Rendezvous II,Club Thirteen ,1308 Drury Lane ,214 S. 13th St. ,0.36594218
+Forty-Six Club ,Varsity Room,46 S 52nd St. ,Quince & Walnut,0.3655626
+Forty-Six Club ,Varsity Room,46 S. 52nd St. ,Quince & Walnut,0.3655626
+Carey's,Rusty's,23rd & Fairmount,Quince & Walnut,0.36555263
+Carey's,Rusty's,23rd & Fairmount,Quince & Walnut,0.36555246
+Rittenhouse Square,Westbury Hotel ,,271 S 15th St. ,0.3652638
+Allegro ,The Steps,1412 Spruce ,1526 Delaney ,0.36481786
+The Steps,Allegro ,1526 Delaney ,1412 Spruce ,0.3648177
+The Steps,Allegro ,1526 Delaney ,1412 Spruce ,0.3648177
+The Steps,Allegro ,1526 Delaney ,1412 Spruce ,0.3648177
+Parker Hotel Bar,Forty-Six Club ,13th & Spruce,46 S 52nd St. ,0.36344618
+Parker Hotel Bar,Forty-Six Club ,13th & Spruce,46 S. 52nd St. ,0.36344618
+Parker Hotel Bar,Forty-Six Club ,13th & Spruce,46 S 52nd St. ,0.36344618
+Parker Hotel Bar,Forty-Six Club ,13th & Spruce,46 S. 52nd St. ,0.36344618
+Baron's Variety Lounge ,Rendezvous II,1116 Walnut ,1308 Drury Lane ,0.3634213
+Drury Lane,The Penrose Club ,1308 Drury Lane,1415 Locust ,0.36327305
+Drury Lane ,The Penrose Club ,1308 Drury ,1415 Locust ,0.36327305
+Drury Lane ,The Penrose Club ,1304 Drury Lane ,1415 Locust ,0.36327302
+Drury Lane ,The Penrose Club ,1304 Drury Lane ,1415 Locust ,0.36327302
+Forrest Bar ,Terminal Bar,206 S. Quince ,Broad & Olney,0.36262488
+Forrest Bar ,Terminal Bar,206 S. Quince ,Broad & Olney,0.36262488
+Forrest Bar ,Terminal bar,206 S. Quince ,Broad & Olner,0.36262488
+Forrest Bar ,Terminal Bar,206 S. Quince ,Broad & Olney,0.36262488
+Forrest Bar ,Terminal bar,206 S. Quince ,Broad & Olner,0.36262488
+Terminal Bar,Forrest Bar ,Broad & Olney,206 S. Quince ,0.36262488
+Terminal Bar,Forrest Bar ,Broad & Olney,206 S. Quince ,0.36262488
+Forrest Bar ,Terminal Bar,206 S. Quince ,Broad & Olney,0.3626248
+Forrest Bar ,Terminal Bar,206 S. Quince ,Broad & Olney,0.3626248
+Forrest Bar ,Terminal bar,206 S. Quince ,Broad & Olner,0.3626248
+Forrest Bar ,Terminal Bar,206 S. Quince ,Broad & Olney,0.3626248
+Forrest Bar ,Terminal bar,206 S. Quince ,Broad & Olner,0.3626248
+R.D. Club,Rendezvous II,13th & Locust,1308 Drury Lane ,0.35978568
+V.I.P. Club,Teddy's Bar ,,418 S. 18th St. ,0.35925078
+V.I.P. Club,Teddy's bar,,Broad & Olney,0.35925078
+V.I.P. Club,Teddy's Bar ,,418 S. 18th St. ,0.35925078
+Teddy's Bar ,V.I.P Club,418 S. 18th St. ,,0.35925078
+V.I.P Club,Teddy's bar,,Broad & Olney,0.35925078
+V.I.P Club,Teddy's Bar ,,418 S. 18th St. ,0.35925078
+Attic ,Midway,5710 Germantown,256 S. 12th St. ,0.35759327
+Attic ,Midway ,5710 Germantown ,256 S. 12th St. ,0.35759327
+Midway ,Attic ,256 S. 12th St. ,5710 Germantown ,0.35759327
+Attic ,Midway ,5710 Germantown,256 S. 12th St. ,0.3575932
+Attic ,Midway ,5710 Germantown,256 S. 12th St. ,0.3575932
+Attic ,Midway ,5710 Germantown,256 S. 12th St. ,0.3575932
+Midway,Attic ,256 S. 12th St. ,5710 Germantown ,0.3575932
+Midway,Attic ,256 S. 12th St. ,5710 Germantown ,0.3575932
+Attic ,Midway ,5710 Germantown ,256 S. 12th St. ,0.3575932
+Attic ,Midway ,5710 Germantown ,256 S. 12th St. ,0.3575932
+Attic ,Midway ,5710 Germantown ,256 S. 12th St. ,0.3575932
+Attic ,Midway ,5710 Germantown ,256 S. 12th St. ,0.3575932
+Midway ,Attic ,256 S. 12th St. ,5710 Germantown,0.35759318
+Midway,Attic ,256 S. 12th St. ,5710 Germantown,0.35759315
+Attic ,Midway ,5710 Germantown,256 S. 12th St. ,0.35759315
+Attic ,Midway ,5710 Germantown,256 S. 12th St. ,0.35759315
+Attic ,Club Thirteen ,5710 Germantown,214 S. 13th St. ,0.3566726
+Attic ,Club Thirteen ,5710 Germantown,214 S. 13th St. ,0.3566726
+Attic ,Club Thirteen ,5710 Germantown,214 S. 13th St. ,0.3566726
+Club Thirteen ,Attic ,214 S. 13th St. ,5710 Germantown ,0.3566726
+Club Thirteen ,Attic ,214 S. 13th St. ,5710 Germantown ,0.3566726
+Attic ,Club Thirteen ,5710 Germantown ,214 S. 13th St. ,0.3566726
+Attic ,Club Thirteen ,5710 Germantown ,214 S. 13th St. ,0.3566726
+Attic ,Club Thirteen ,5710 Germantown ,214 S. 13th St. ,0.3566726
+Attic ,Club Thirteen ,5710 Germantown ,214 S. 13th St. ,0.3566726
+Club Thirteen ,Attic ,214 S. 13th St. ,5710 Germantown,0.35667259
+Attic ,Club Thirteen ,5710 Germantown,214 S. 13th St. ,0.35667259
+Attic ,Club Thirteen ,5710 Germantown,214 S. 13th St. ,0.35667259
+Attic ,Club Thirteen ,5710 Germantown,214 S. 13th St. ,0.35667253
+Attic ,Club Thirteen ,5710 Germantown ,214 S. 13th St. ,0.35667253
+Club Thirteen ,Attic ,214 S. 13th St. ,5710 Germantown ,0.35667253
+Club Thirteen ,Attic ,214 S. 13th St. ,5710 Germantown,0.35667253
+P.B.L. Club ,Parson's Table ,204 S. Quince ,26 S. Front St. ,0.35641634
+P.B.L Club ,Parson's Table ,204 S. Quince ,26 S. Front St. ,0.35641634
+P.B.L. Club ,Parson's Table ,204 S. Quince ,26 S. Front St. ,0.3564161
+Parson's Table ,P.B.L Club ,26 S. Front St. ,204 S. Quince ,0.3564161
+Parson's Table ,PBL Club ,26 S. Front St. ,204 Quince ,0.3564161
+Parson's Table ,PBL Club ,26 S. Front St. ,204 Quince ,0.3564161
+Parker Hotel Bar,Penrose Club ,13th & Spruce,1415 Locust ,0.35418034
+Parker Hotel Bar,Penrose Club ,13th & Spruce,1415 Locust ,0.3541803
+Penrose Club ,Parker Hotel Bar,1415 Locust,13th & Spruce,0.3541803
+Parker Hotel Bar,Penrose Club ,13th & Spruce,1415 Locust ,0.3541803
+Parker Hotel Bar,Penrose Club ,13th & Spruce,1415 Locust ,0.35418022
+Parker Hotel Bar,Penrose Club ,13th & Spruce,1415 Locust,0.35418013
+Parson's Table ,Varsity Room,26 S. Front St. ,Quince & Walnut,0.35377473
+Parson's Table ,Varsity Room,26 S. Front St. ,Quince & Walnut,0.35377473
+Carey's,Teddy's Bar ,23rd & Fairmount,418 S. 18th St. ,0.35359702
+Carey's,Teddy's bar,23rd & Fairmount,Broad & Olney,0.35359702
+Carey's,Teddy's Bar ,23rd & Fairmount,418 S. 18th St. ,0.35359702
+V.I.P. Club,Attic ,,5710 Germantown ,0.35344473
+V.I.P. Club,Attic ,,5710 Germantown ,0.35344473
+Attic ,V.I.P Club,5710 Germantown ,,0.35344473
+V.I.P Club,Attic ,,5710 Germantown ,0.35344473
+Attic ,V.I.P. Club,5710 Germantown,,0.3534447
+Attic ,V.I.P Club,5710 Germantown,,0.3534447
+V.I.P. Club,Attic ,,5710 Germantown,0.3534447
+V.I.P Club,Attic ,,5710 Germantown,0.3534447
+Drury Lane,Peyton Place ,1308 Drury Lane,1308 Drury Lane ,0.3532685
+Drury Lane ,Peyton Place ,1308 Drury ,1308 Drury Lane ,0.3532685
+Drury Lane ,Peyton Place ,1304 Drury Lane ,1308 Drury Lane ,0.35326836
+Drury Lane ,Peyton Place ,1304 Drury Lane ,1308 Drury Lane ,0.35326836
+Parson's Table ,Dewey's,26 S. Front St. ,17th & Chancellor,0.3529308
+Parson's Table ,Deweys,26 S. Front St. ,Chancelor at 17th St.,0.3529308
+Parson's Table ,Dewey's,26 S. Front St. ,17th & Chancellor,0.3529308
+Parson's Table ,Deweys,26 S. Front St. ,Chancelor at 17th St.,0.3529308
+Dewey's,Teddy's bar,17th & Chancellor,Broad & Olney,0.35280487
+Dewey's,Teddy's Bar ,17th & Chancellor,418 S. 18th St. ,0.35280487
+Deweys,Teddy's bar,Chancelor at 17th St.,Broad & Olney,0.35280487
+Deweys,Teddy's Bar ,Chancelor at 17th St.,418 S. 18th St. ,0.35280487
+Teddy's Bar ,Dewey's,418 S. 18th St. ,17th & Chancellor,0.35280478
+Teddy's Bar ,Deweys,418 S. 18th St. ,Chancelor at 17th St.,0.35280478
+C.R. Club ,Ritz Bar,6400 Market ,13th near Market,0.35101643
+C.R. Club ,Ritz Bar,6400 Market ,13th near Market,0.35101628
+Baron's Variety Lounge ,Forty-Six Club ,1116 Walnut ,46 S 52nd St. ,0.35038835
+Baron's Variety Lounge ,Forty-Six Club ,1116 Walnut ,46 S. 52nd St. ,0.35038835
+Carey's,Pirate's Den,23rd & Fairmount,210 S. Camac ,0.34996665
+Pirate's Den,V.I.P. Club,210 S. Camac ,,0.3497173
+Pirate's Den,V.I.P Club,210 S. Camac ,,0.3497173
+Allegro ,Parson's Table ,1412 Spruce ,26 S. Front St. ,0.3495592
+Parson's Table ,Allegro ,26 S. Front St. ,1412 Spruce ,0.3495592
+Parson's Table ,Allegro ,26 S. Front St. ,1412 Spruce ,0.3495592
+Parson's Table ,Allegro ,26 S. Front St. ,1412 Spruce ,0.3495592
+Allegro ,Parson's Table ,1412 Spruce ,26 S. Front St. ,0.3495591
+Allegro ,Parson's Table ,1412 Spruce ,26 S. Front St. ,0.3495591
+Parson's Table ,Allegro ,26 S. Front St. ,1412 Spruce ,0.3495591
+Parson's Table ,Allegro ,26 S. Front St. ,1412 Spruce ,0.3495591
+Allegro ,Frank's ,1412 Spruce ,347 S. 13th ,0.34707242
+Frank's ,Allegro ,347 S. 13th ,1412 Spruce ,0.34707236
+Frank's ,Allegro ,347 S. 13th ,1412 Spruce ,0.34707236
+Frank's ,Allegro ,347 S. 13th ,1412 Spruce ,0.34707236
+Frank's ,Peyton Place ,347 S. 13th ,1308 Drury Lane ,0.346894
+Penrose Club ,Westbury Hotel ,1415 Locust,271 S 15th St. ,0.34514278
+Penrose Club ,Westbury Hotel ,1415 Locust ,271 S 15th St. ,0.34514278
+Penrose Club ,Westbury Hotel ,1415 Locust ,271 S 15th St. ,0.34514278
+R.D. Club,Ritz Bar,13th & Locust,13th near Market,0.34509358
+R.D. Club,Ritz Bar,13th & Locust,13th near Market,0.34509358
+The Penrose Club ,Westbury Hotel ,1415 Locust ,271 S 15th St. ,0.34394968
+Carey's,Miss P's ,23rd & Fairmount,418 S. 18th St. ,0.34380314
+Club Thirteen ,Teddy's Bar ,214 S. 13th St. ,418 S. 18th St. ,0.34215757
+Club Thirteen ,Teddy's bar,214 S. 13th St. ,Broad & Olney,0.34215757
+Club Thirteen ,Teddy's Bar ,214 S. 13th St. ,418 S. 18th St. ,0.34215757
+Club Thirteen ,Teddy's bar,214 S. 13th St. ,Broad & Olney,0.34215757
+Club Thirteen ,Teddy's Bar ,214 S. 13th St. ,418 S. 18th St. ,0.34215757
+Teddy's Bar ,Club Thirteen ,418 S. 18th St. ,214 S. 13th St. ,0.34215757
+Teddy's Bar ,Club Thirteen ,418 S. 18th St. ,214 S. 13th St. ,0.34215757
+Club Thirteen ,Teddy's Bar ,214 S. 13th St. ,418 S. 18th St. ,0.34215748
+Club Thirteen ,Teddy's bar,214 S. 13th St. ,Broad & Olney,0.34215748
+Club Thirteen ,Teddy's Bar ,214 S. 13th St. ,418 S. 18th St. ,0.34215748
+Club Thirteen ,Teddy's bar,214 S. 13th St. ,Broad & Olney,0.34215748
+Club Thirteen ,Teddy's Bar ,214 S. 13th St. ,418 S. 18th St. ,0.34215748
+Westbury Hotel Bar ,The Penrose Club ,217 S. 15th St. ,1415 Locust ,0.34201515
+Westbury Hotel Bar ,The Penrose Club ,271 S. 15th St. ,1415 Locust ,0.34201515
+The Penrose Club ,Westbury Hotel Bar ,1415 Locust ,271 S. 15th St. ,0.342015
+SK Bar ,Westbury Hotel Bar ,2 S. Mole St. ,271 S. 15th St. ,0.34156808
+Westbury Hotel Bar ,SK Bar ,217 S. 15th St. ,2 S. Mole St. ,0.34156805
+Westbury Hotel Bar ,SK Bar ,271 S. 15th St. ,2 S. Mole St. ,0.34156805
+R.D. Club,Parson's Table ,13th & Locust,26 S. Front St. ,0.34149468
+Parson's Table ,R.D. Club,26 S. Front St. ,13th & Locust,0.34149453
+C.R. Club ,Rendezvous II,6400 Market ,1308 Drury Lane ,0.34141716
+Baron's Variety Lounge ,Club Thirteen ,1116 Walnut ,214 S. 13th St. ,0.34054315
+Baron's Variety Lounge ,Club Thirteen ,1116 Walnut ,214 S. 13th St. ,0.34054294
+Baron's Variety Lounge ,Club Thirteen ,1116 Walnut ,214 S. 13th St. ,0.34054294
+Baron's Variety Lounge ,Club Thirteen ,1116 Walnut ,214 S. 13th St. ,0.34054294
+Frank's ,Rusty's,347 S. 13th ,Quince & Walnut,0.34045008
+Frank's ,Rusty's,347 S. 13th ,Quince & Walnut,0.34045005
+Club Thirteen ,SK Bar ,214 S. 13th St. ,2 S. Mole St. ,0.3403099
+Club Thirteen ,SK Bar ,214 S. 13th St. ,2 S. Mole St. ,0.3403099
+Club Thirteen ,SK Bar ,214 S. 13th St. ,2 S. Mole St. ,0.34030983
+Club Thirteen ,SK Bar ,214 S. 13th St. ,2 S. Mole St. ,0.34030983
+Westbury Hotel Bar ,Penrose Club ,217 S. 15th St. ,1415 Locust ,0.34010264
+Penrose Club ,Westbury Hotel Bar ,1415 Locust ,271 S. 15th St. ,0.34010264
+Penrose Club ,Westbury Hotel Bar ,1415 Locust ,271 S. 15th St. ,0.34010264
+Penrose Club ,Westbury Hotel Bar ,1415 Locust,271 S. 15th St. ,0.34010258
+Penrose Club ,Westbury Hotel Bar ,1415 Locust ,271 S. 15th St. ,0.34010258
+Penrose Club ,Westbury Hotel Bar ,1415 Locust,217 S. 15th St. ,0.34010255
+Penrose Club ,Westbury Hotel Bar ,1415 Locust,271 S. 15th St. ,0.34010255
+Westbury Hotel Bar ,Penrose Club ,217 S. 15th St. ,1415 Locust ,0.34010255
+Westbury Hotel Bar ,Penrose Club ,271 S. 15th St. ,1415 Locust ,0.34010255
+Baron's Variety Lounge ,The Penrose Club ,1116 Walnut ,1415 Locust ,0.33935553
+Baron's Variety Lounge ,Penrose Club ,1116 Walnut ,1415 Locust ,0.33932096
+Baron's Variety Lounge ,Penrose Club ,1116 Walnut ,1415 Locust ,0.33932087
+Baron's Variety Lounge ,Penrose Club ,1116 Walnut ,1415 Locust,0.33932072
+Parker Hotel Bar,The Penrose Club ,13th & Spruce,1415 Locust ,0.3389774
+Parker Hotel Bar,The Penrose Club ,13th & Spruce,1415 Locust ,0.3389774
+Midway,Rittenhouse Square,256 S. 12th St. ,,0.33815345
+Rittenhouse Square,Midway ,,256 S. 12th St. ,0.33815342
+Rittenhouse Square,Midway ,,256 S. 12th St. ,0.33815342
+Rittenhouse Square,Midway ,,256 S. 12th St. ,0.33815342
+Foster House ,Peyton Place ,207 S. Quince ,1308 Drury Lane ,0.33782196
+Allegro ,Baron's Variety Lounge ,1412 Spruce ,1116 Walnut ,0.33748582
+Baron's Variety Lounge ,Allegro ,1116 Walnut ,1412 Spruce ,0.3374857
+Baron's Variety Lounge ,Allegro ,1116 Walnut ,1412 Spruce ,0.3374857
+Baron's Variety Lounge ,Allegro ,1116 Walnut ,1412 Spruce ,0.3374857
+Teddy's Bar ,Varsity Room,418 S. 18th St. ,Quince & Walnut,0.33692166
+Teddy's bar,Varsity Room,Broad & Olney,Quince & Walnut,0.33692163
+Teddy's Bar ,Varsity Room,418 S. 18th St. ,Quince & Walnut,0.33692163
+R.D. Club,Varsity Room,13th & Locust,Quince & Walnut,0.3368174
+Baron's Variety Lounge ,Teddy's Bar ,1116 Walnut ,418 S. 18th St. ,0.3364052
+Baron's Variety Lounge ,Teddy's bar,1116 Walnut ,Broad & Olney,0.3364052
+Baron's Variety Lounge ,Teddy's Bar ,1116 Walnut ,418 S. 18th St. ,0.3364052
+My Sisters,Mystique,,1418 Spruce ,0.33572644
+My Sisters,Mystique ,,1418 Spruce ,0.33572644
+Mystique ,My Sisters,1418 Spruce ,,0.33572614
+Forty-Six Club ,Westbury Hotel Bar ,46 S 52nd St. ,271 S. 15th St. ,0.33330294
+Forty-Six Club ,Westbury Hotel Bar ,46 S. 52nd St. ,271 S. 15th St. ,0.33330294
+Westbury Hotel Bar ,Forty-Six Club ,217 S. 15th St. ,46 S 52nd St. ,0.33330286
+Westbury Hotel Bar ,Forty-Six Club ,217 S. 15th St. ,46 S. 52nd St. ,0.33330286
+Westbury Hotel Bar ,Forty-Six Club ,271 S. 15th St. ,46 S 52nd St. ,0.33330286
+Westbury Hotel Bar ,Forty-Six Club ,271 S. 15th St. ,46 S. 52nd St. ,0.33330286
+Rendezvous II,The Penrose Club ,1308 Drury Lane ,1415 Locust ,0.33328125
+Parson's Table ,Forty-Six Club ,26 S. Front St. ,46 S 52nd St. ,0.3332375
+Parson's Table ,Forty-Six Club ,26 S. Front St. ,46 S. 52nd St. ,0.3332375
+Parson's Table ,Forty-Six Club ,26 S. Front St. ,46 S 52nd St. ,0.3332375
+Parson's Table ,Forty-Six Club ,26 S. Front St. ,46 S. 52nd St. ,0.3332375
+Foster House ,Pirate's Den,207 S. Quince ,210 S. Camac ,0.3329048
+Carey's,Dewey's,23rd & Fairmount,17th & Chancellor,0.33216053
+Carey's,Deweys,23rd & Fairmount,Chancelor at 17th St.,0.33216053
+V.I.P. Club,Parson's Table ,,26 S. Front St. ,0.33196837
+Parson's Table ,V.I.P Club,26 S. Front St. ,,0.33196837
+Parson's Table ,V.I.P. Club,26 S. Front St. ,,0.33196822
+Parson's Table ,V.I.P Club,26 S. Front St. ,,0.33196822
+Attic ,The Penrose Club ,5710 Germantown,1415 Locust ,0.33136725
+Attic ,The Penrose Club ,5710 Germantown,1415 Locust ,0.3313672
+Attic ,The Penrose Club ,5710 Germantown ,1415 Locust ,0.3313672
+Attic ,The Penrose Club ,5710 Germantown ,1415 Locust ,0.3313672
+Penrose Club ,Rendezvous II,1415 Locust ,1308 Drury Lane ,0.3313566
+Penrose Club ,Rendezvous II,1415 Locust,1308 Drury Lane ,0.33135647
+Rendezvous II,Penrose Club ,1308 Drury Lane ,1415 Locust ,0.33135647
+Rittenhouse Square,Penrose Club ,,1415 Locust ,0.33063465
+Rittenhouse Square,Penrose Club ,,1415 Locust ,0.3306346
+Penrose Club ,Rittenhouse Square,1415 Locust,,0.33063456
+Drury Lane ,Parker Hotel Bar,1304 Drury Lane ,13th & Spruce,0.33056802
+Parker Hotel Bar,Drury Lane ,13th & Spruce,1304 Drury Lane ,0.33056802
+Parker Hotel Bar,Drury Lane,13th & Spruce,1308 Drury Lane,0.33056802
+Parker Hotel Bar,Drury Lane ,13th & Spruce,1308 Drury ,0.33056802
+Parker Hotel Bar,Drury Lane,13th & Spruce,1308 Drury Lane,0.33056802
+Parker Hotel Bar,Drury Lane ,13th & Spruce,1308 Drury ,0.33056802
+Drury Lane ,Parker Hotel Bar,1304 Drury Lane ,13th & Spruce,0.33056784
+Drury Lane ,Parker Hotel Bar,1304 Drury Lane ,13th & Spruce,0.33056784
+The Steps,Two-Forty-Seven ,1526 Delaney ,247 17th St. ,0.33024567
+V.I.P. Club,Midway ,,256 S. 12th St. ,0.33016834
+Midway ,V.I.P Club,256 S. 12th St. ,,0.33016834
+Midway,V.I.P. Club,256 S. 12th St. ,,0.33016813
+Midway,V.I.P Club,256 S. 12th St. ,,0.33016813
+V.I.P. Club,Midway ,,256 S. 12th St. ,0.33016813
+V.I.P. Club,Midway ,,256 S. 12th St. ,0.33016813
+V.I.P Club,Midway ,,256 S. 12th St. ,0.33016813
+V.I.P Club,Midway ,,256 S. 12th St. ,0.33016813
+Rendezvous II,Forty-Six Club ,1308 Drury Lane ,46 S 52nd St. ,0.32986993
+Rendezvous II,Forty-Six Club ,1308 Drury Lane ,46 S. 52nd St. ,0.32986993
+PBL Club ,Varsity Room,204 Quince ,Quince & Walnut,0.32970604
+P.B.L. Club ,Varsity Room,204 S. Quince ,Quince & Walnut,0.329706
+P.B.L Club ,Varsity Room,204 S. Quince ,Quince & Walnut,0.329706
+Forrest Bar ,V.I.P. Club,206 S. Quince ,,0.32964802
+Forrest Bar ,V.I.P Club,206 S. Quince ,,0.32964802
+V.I.P. Club,Forrest Bar ,,206 S. Quince ,0.32964802
+V.I.P. Club,Forrest Bar ,,206 S. Quince ,0.32964802
+V.I.P Club,Forrest Bar ,,206 S. Quince ,0.32964802
+V.I.P Club,Forrest Bar ,,206 S. Quince ,0.32964802
+V.I.P. Club,Forrest Bar ,,206 S. Quince ,0.329648
+Forrest Bar ,V.I.P Club,206 S. Quince ,,0.329648
+C.R. Club ,Westbury Hotel ,6400 Market ,271 S 15th St. ,0.32927287
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,217 S. 15th St. ,0.3290554
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,271 S. 15th St. ,0.3290554
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,271 S. 15th St. ,0.3290554
+Westbury Hotel Bar ,Club Thirteen ,217 S. 15th St. ,214 S. 13th St. ,0.3290554
+Westbury Hotel Bar ,Club Thirteen ,217 S. 15th St. ,214 S. 13th St. ,0.3290554
+Westbury Hotel Bar ,Club Thirteen ,217 S. 15th St. ,214 S. 13th St. ,0.3290554
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,271 S. 15th St. ,0.3290554
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,271 S. 15th St. ,0.3290554
+Westbury Hotel Bar ,Club Thirteen ,271 S. 15th St. ,214 S. 13th St. ,0.3290554
+Westbury Hotel Bar ,Club Thirteen ,271 S. 15th St. ,214 S. 13th St. ,0.3290554
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,271 S. 15th St. ,0.3290554
+Club Thirteen ,Westbury Hotel Bar ,214 S. 13th St. ,271 S. 15th St. ,0.3290554
+Baron's Variety Lounge ,Rittenhouse Square,1116 Walnut ,,0.32787207
+C.R. Club ,Miss P's ,6400 Market ,418 S. 18th St. ,0.3276283
+Pirate's Den,Parker Hotel Bar,210 S. Camac ,13th & Spruce,0.32756633
+Parker Hotel Bar,Pirate's Den,13th & Spruce,210 S. Camac ,0.32756624
+Dewey's Coffee Shop,Drury Lane ,13th & Chancellor,1304 Drury Lane ,0.32756266
+Dewey's Coffee Shop,Drury Lane ,17th & Chancellor,1304 Drury Lane ,0.32756266
+Dewey's Coffee Shop,Drury Lane ,13th & Chancellor,1304 Drury Lane ,0.32756266
+Dewey's Coffee Shop,Drury Lane ,17th & Chancelor,1304 Drury Lane ,0.32756266
+Dewey's Coffee Shop,Drury Lane ,13th & Chancellor,1304 Drury Lane ,0.32756257
+Dewey's Coffee Shop,Drury Lane,13th & Chancellor,1308 Drury Lane,0.32756257
+Dewey's Coffee Shop,Drury Lane ,13th & Chancellor,1308 Drury ,0.32756257
+Dewey's Coffee Shop,Drury Lane ,17th & Chancellor,1304 Drury Lane ,0.32756257
+Dewey's Coffee Shop,Drury Lane,17th & Chancellor,1308 Drury Lane,0.32756257
+Dewey's Coffee Shop,Drury Lane ,17th & Chancellor,1308 Drury ,0.32756257
+Drury Lane ,Dewey's Coffee Shop,1304 Drury Lane ,13th & Chancellor,0.32756257
+Drury Lane ,Dewey's Coffee Shop,1304 Drury Lane ,17th & Chancelor,0.32756257
+Dewey's Coffee Shop,Drury Lane,13th & Chancellor,1308 Drury Lane,0.32756257
+Dewey's Coffee Shop,Drury Lane ,13th & Chancellor,1308 Drury ,0.32756257
+Dewey's Coffee Shop,Drury Lane,17th & Chancelor,1308 Drury Lane,0.32756257
+Dewey's Coffee Shop,Drury Lane ,17th & Chancelor,1308 Drury ,0.32756257
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S 52nd St. ,0.32685667
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S. 52nd St. ,0.32685667
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S 52nd St. ,0.32685667
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S. 52nd St. ,0.32685667
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S 52nd St. ,0.3268565
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S. 52nd St. ,0.3268565
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S 52nd St. ,0.3268565
+Forrest Bar ,Forty-Six Club ,206 S. Quince ,46 S. 52nd St. ,0.3268565
+Ritz Bar,Attic ,13th near Market,5710 Germantown,0.3254141
+Attic ,Ritz Bar,5710 Germantown,13th near Market,0.32541403
+Attic ,Ritz Bar,5710 Germantown,13th near Market,0.32541403
+Ritz Bar,Attic ,13th near Market,5710 Germantown ,0.32541403
+Ritz Bar,Attic ,13th near Market,5710 Germantown ,0.32541403
+Attic ,Ritz Bar,5710 Germantown ,13th near Market,0.32541403
+Ritz Bar,Attic ,13th near Market,5710 Germantown ,0.32541403
+Ritz Bar,Attic ,13th near Market,5710 Germantown,0.325414
+Varsity Room,Westbury Hotel Bar ,Quince & Walnut,271 S. 15th St. ,0.3252356
+Westbury Hotel Bar ,Varsity Room,217 S. 15th St. ,Quince & Walnut,0.32523552
+Westbury Hotel Bar ,Varsity Room,271 S. 15th St. ,Quince & Walnut,0.32523552
+Forrest Bar ,Peyton Place ,206 S. Quince ,1308 Drury Lane ,0.32479188
+Forrest Bar ,Peyton Place ,206 S. Quince ,1308 Drury Lane ,0.32479188
+Forrest Bar ,Peyton Place ,206 S. Quince ,1308 Drury Lane ,0.32479167
+Forrest Bar ,Peyton Place ,206 S. Quince ,1308 Drury Lane ,0.32479167
+P.B.L. Club ,Westbury Hotel Bar ,204 S. Quince ,217 S. 15th St. ,0.32459214
+P.B.L. Club ,Westbury Hotel Bar ,204 S. Quince ,271 S. 15th St. ,0.32459214
+Westbury Hotel Bar ,PBL Club ,217 S. 15th St. ,204 Quince ,0.32459214
+Westbury Hotel Bar ,PBL Club ,271 S. 15th St. ,204 Quince ,0.32459214
+P.B.L. Club ,Westbury Hotel Bar ,204 S. Quince ,271 S. 15th St. ,0.32459196
+Westbury Hotel Bar ,P.B.L Club ,217 S. 15th St. ,204 S. Quince ,0.32459196
+P.B.L Club ,Westbury Hotel Bar ,204 S. Quince ,271 S. 15th St. ,0.32459196
+P.B.L Club ,Westbury Hotel Bar ,204 S. Quince ,271 S. 15th St. ,0.32459196
+PBL Club ,Westbury Hotel Bar ,204 Quince ,271 S. 15th St. ,0.32459196
+Teddy's Bar ,Terminal Bar,418 S. 18th St. ,Broad & Olney,0.32363206
+Teddy's bar,Terminal Bar,Broad & Olney,Broad & Olney,0.32363206
+Teddy's bar,Terminal bar,Broad & Olney,Broad & Olner,0.32363206
+Teddy's Bar ,Terminal Bar,418 S. 18th St. ,Broad & Olney,0.32363206
+Teddy's Bar ,Terminal bar,418 S. 18th St. ,Broad & Olner,0.32363206
+Teddy's Bar ,Terminal Bar,418 S. 18th St. ,Broad & Olney,0.32363203
+Teddy's Bar ,Terminal bar,418 S. 18th St. ,Broad & Olner,0.32363203
+Terminal Bar,Teddy's bar,Broad & Olney,Broad & Olney,0.32363203
+Terminal Bar,Teddy's Bar ,Broad & Olney,418 S. 18th St. ,0.32363203
+Teddy's Bar ,Buddy's,418 S. 18th St. ,13th & Commerce,0.3226349
+Buddy's,Teddy's bar,13th & Commerce,Broad & Olney,0.32263485
+Buddy's,Teddy's Bar ,13th & Commerce,418 S. 18th St. ,0.32263485
+C.R. Club ,Teddy's Bar ,6400 Market ,418 S. 18th St. ,0.32261625
+C.R. Club ,Teddy's bar,6400 Market ,Broad & Olney,0.32261625
+C.R. Club ,Teddy's Bar ,6400 Market ,418 S. 18th St. ,0.32261625
+Miss P's ,SK Bar ,418 S. 18th St. ,2 S. Mole St. ,0.32247078
+C.R. Club ,Pirate's Den,6400 Market ,210 S. Camac ,0.32186082
+The Penrose Club ,Varsity Room,1415 Locust ,Quince & Walnut,0.32175314
+Parker Hotel Bar,Varsity Room,13th & Spruce,Quince & Walnut,0.32163262
+Parker Hotel Bar,Varsity Room,13th & Spruce,Quince & Walnut,0.32163262
+Frank's ,Pirate's Den,347 S. 13th ,210 S. Camac ,0.32153472
+Carey's,Buddy's,23rd & Fairmount,13th & Commerce,0.32114467
+Midway,Westbury Hotel ,256 S. 12th St. ,271 S 15th St. ,0.3204564
+Midway ,Westbury Hotel ,256 S. 12th St. ,271 S 15th St. ,0.3204564
+Midway ,Westbury Hotel ,256 S. 12th St. ,271 S 15th St. ,0.3204564
+Midway ,Westbury Hotel ,256 S. 12th St. ,271 S 15th St. ,0.3204564
+Baron's Variety Lounge ,Drury Lane ,1116 Walnut ,1304 Drury Lane ,0.3199094
+Baron's Variety Lounge ,Drury Lane,1116 Walnut ,1308 Drury Lane,0.3199094
+Baron's Variety Lounge ,Drury Lane ,1116 Walnut ,1308 Drury ,0.3199094
+Baron's Variety Lounge ,Drury Lane ,1116 Walnut ,1304 Drury Lane ,0.31990927
+Midway,Peyton Place ,256 S. 12th St. ,1308 Drury Lane ,0.31981927
+Midway ,Peyton Place ,256 S. 12th St. ,1308 Drury Lane ,0.31981927
+Midway ,Peyton Place ,256 S. 12th St. ,1308 Drury Lane ,0.31981906
+Midway ,Peyton Place ,256 S. 12th St. ,1308 Drury Lane ,0.31981906
+Attic ,Penrose Club ,5710 Germantown,1415 Locust ,0.31945074
+Penrose Club ,Attic ,1415 Locust,5710 Germantown,0.31945074
+Penrose Club ,Attic ,1415 Locust ,5710 Germantown,0.31945074
+Attic ,Penrose Club ,5710 Germantown,1415 Locust ,0.31945074
+Attic ,Penrose Club ,5710 Germantown,1415 Locust ,0.3194507
+Penrose Club ,Attic ,1415 Locust,5710 Germantown ,0.3194507
+Penrose Club ,Attic ,1415 Locust,5710 Germantown ,0.3194507
+Attic ,Penrose Club ,5710 Germantown ,1415 Locust ,0.3194507
+Attic ,Penrose Club ,5710 Germantown ,1415 Locust ,0.3194507
+Attic ,Penrose Club ,5710 Germantown,1415 Locust,0.31945056
+Attic ,Penrose Club ,5710 Germantown ,1415 Locust ,0.31945056
+Penrose Club ,Attic ,1415 Locust ,5710 Germantown ,0.31945056
+Parker Hotel Bar,Attic ,13th & Spruce,5710 Germantown,0.319038
+Attic ,Parker Hotel Bar,5710 Germantown,13th & Spruce,0.31903788
+Parker Hotel Bar,Attic ,13th & Spruce,5710 Germantown ,0.31903788
+Parker Hotel Bar,Attic ,13th & Spruce,5710 Germantown ,0.31903788
+Parker Hotel Bar,Attic ,13th & Spruce,5710 Germantown,0.31903785
+Attic ,Parker Hotel Bar,5710 Germantown,13th & Spruce,0.3190378
+Attic ,Parker Hotel Bar,5710 Germantown ,13th & Spruce,0.3190378
+Parker Hotel Bar,Attic ,13th & Spruce,5710 Germantown ,0.3190378
+Baron's Variety Lounge ,Dewey's Coffee Shop,1116 Walnut ,13th & Chancellor,0.31810626
+Baron's Variety Lounge ,Dewey's Coffee Shop,1116 Walnut ,17th & Chancelor,0.31810626
+Baron's Variety Lounge ,Dewey's Coffee Shop,1116 Walnut ,13th & Chancellor,0.31810614
+Baron's Variety Lounge ,Dewey's Coffee Shop,1116 Walnut ,17th & Chancellor,0.31810614
+Drury Lane ,Midway ,1304 Drury Lane ,256 S. 12th St. ,0.31712607
+Drury Lane ,Midway ,1304 Drury Lane ,256 S. 12th St. ,0.31712607
+Drury Lane ,Midway ,1304 Drury Lane ,256 S. 12th St. ,0.31712607
+Midway,Drury Lane ,256 S. 12th St. ,1304 Drury Lane ,0.31712607
+Midway,Drury Lane,256 S. 12th St. ,1308 Drury Lane,0.31712607
+Midway,Drury Lane ,256 S. 12th St. ,1308 Drury ,0.31712607
+Drury Lane ,Midway ,1304 Drury Lane ,256 S. 12th St. ,0.31712607
+Drury Lane ,Midway ,1304 Drury Lane ,256 S. 12th St. ,0.31712607
+Midway ,Drury Lane,256 S. 12th St. ,1308 Drury Lane,0.31712607
+Midway ,Drury Lane ,256 S. 12th St. ,1308 Drury ,0.31712607
+Drury Lane ,Midway,1304 Drury Lane ,256 S. 12th St. ,0.31712592
+Drury Lane ,Midway ,1304 Drury Lane ,256 S. 12th St. ,0.31712592
+Drury Lane,Midway ,1308 Drury Lane,256 S. 12th St. ,0.31712592
+Drury Lane,Midway ,1308 Drury Lane,256 S. 12th St. ,0.31712592
+Drury Lane ,Midway ,1308 Drury ,256 S. 12th St. ,0.31712592
+Drury Lane ,Midway ,1308 Drury ,256 S. 12th St. ,0.31712592
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683287
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683287
+Club Thirteen ,Allegro ,214 S. 13th St. ,1412 Spruce ,0.31683287
+Club Thirteen ,Allegro ,214 S. 13th St. ,1412 Spruce ,0.31683287
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Club Thirteen ,Allegro ,214 S. 13th St. ,1412 Spruce ,0.31683284
+Club Thirteen ,Allegro ,214 S. 13th St. ,1412 Spruce ,0.31683284
+Club Thirteen ,Allegro ,214 S. 13th St. ,1412 Spruce ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Allegro ,Club Thirteen ,1412 Spruce ,214 S. 13th St. ,0.31683284
+Drury Lane ,Spruce St. from Broad St. to area of Rittenhouse Square,1304 Drury Lane ,,0.31681964
+Drury Lane ,Spruce St. from Broad St. to area of Rittenhouse Square,1304 Drury Lane ,,0.31681964
+Spruce St. from Broad St. to area of Rittenhouse Square,Drury Lane,,1308 Drury Lane,0.31681964
+Spruce St. from Broad St. to area of Rittenhouse Square,Drury Lane ,,1308 Drury ,0.31681964
+Forty-Six Club ,Teddy's bar,46 S 52nd St. ,Broad & Olney,0.31649673
+Forty-Six Club ,Teddy's Bar ,46 S 52nd St. ,418 S. 18th St. ,0.31649673
+Forty-Six Club ,Teddy's bar,46 S. 52nd St. ,Broad & Olney,0.31649673
+Forty-Six Club ,Teddy's Bar ,46 S. 52nd St. ,418 S. 18th St. ,0.31649673
+Teddy's Bar ,Forty-Six Club ,418 S. 18th St. ,46 S 52nd St. ,0.31649664
+Teddy's Bar ,Forty-Six Club ,418 S. 18th St. ,46 S. 52nd St. ,0.31649664
+Rittenhouse Square,Ritz Bar,,13th near Market,0.31600806
+Rittenhouse Square,Ritz Bar,,13th near Market,0.31600803
+Pirate's Den,SK Bar ,210 S. Camac ,2 S. Mole St. ,0.31554884
+Miss P's ,Buddy's,418 S. 18th St. ,13th & Commerce,0.3155258
+Rusty's,Teddy's Bar ,Quince & Walnut,418 S. 18th St. ,0.31509477
+Rusty's,Teddy's bar,Quince & Walnut,Broad & Olney,0.31509477
+Rusty's,Teddy's Bar ,Quince & Walnut,418 S. 18th St. ,0.31509477
+Rusty's,Teddy's bar,Quince & Walnut,Broad & Olney,0.31509477
+Rusty's,Teddy's Bar ,Quince & Walnut,418 S. 18th St. ,0.31509477
+Rusty's,Teddy's Bar ,Quince & Walnut,418 S. 18th St. ,0.3150947
+Club Thirteen ,Parson's Table ,214 S. 13th St. ,26 S. Front St. ,0.31504345
+Parson's Table ,Club Thirteen ,26 S. Front St. ,214 S. 13th St. ,0.31504345
+Parson's Table ,Club Thirteen ,26 S. Front St. ,214 S. 13th St. ,0.31504345
+Parson's Table ,Club Thirteen ,26 S. Front St. ,214 S. 13th St. ,0.31504345
+Parson's Table ,Club Thirteen ,26 S. Front St. ,214 S. 13th St. ,0.31504345
+Parson's Table ,Club Thirteen ,26 S. Front St. ,214 S. 13th St. ,0.31504345
+Club Thirteen ,Parson's Table ,214 S. 13th St. ,26 S. Front St. ,0.31504342
+Club Thirteen ,Parson's Table ,214 S. 13th St. ,26 S. Front St. ,0.31504342
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371307
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371307
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371307
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371307
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371307
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371307
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371295
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371295
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371295
+Forrest Bar ,Club Thirteen ,206 S. Quince ,214 S. 13th St. ,0.31371295
+Forrest Bar ,Club Thirteen ,206 S. Quince ,214 S. 13th St. ,0.31371295
+Forrest Bar ,Club Thirteen ,206 S. Quince ,214 S. 13th St. ,0.31371295
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371295
+Club Thirteen ,Forrest Bar ,214 S. 13th St. ,206 S. Quince ,0.31371295
+Forrest Bar ,Club Thirteen ,206 S. Quince ,214 S. 13th St. ,0.31371295
+Forrest Bar ,Club Thirteen ,206 S. Quince ,214 S. 13th St. ,0.31371295
+R.D. Club,Rittenhouse Square,13th & Locust,,0.31364572
+Maxines ,Teddy's Bar ,243 Camac,418 S. 18th St. ,0.3134264
+Maxines ,Teddy's bar,243 Camac,Broad & Olney,0.3134264
+Maxines ,Teddy's Bar ,243 Camac,418 S. 18th St. ,0.3134264
+Maxine's ,Teddy's Bar ,243 Camac,418 S. 18th St. ,0.3134264
+Maxine's ,Teddy's bar,243 Camac,Broad & Olney,0.3134264
+Maxine's ,Teddy's Bar ,243 Camac,418 S. 18th St. ,0.3134264
+Teddy's Bar ,Maxine's ,418 S. 18th St. ,243 Camac ,0.3134264
+Teddy's Bar ,Maxine's ,418 S. 18th St. ,243 Camac ,0.3134264
+Maxine's ,Teddy's bar,243 Camac ,Broad & Olney,0.3134264
+Maxine's ,Teddy's Bar ,243 Camac ,418 S. 18th St. ,0.3134264
+Maxine's ,Teddy's bar,243 Camac ,Broad & Olney,0.3134264
+Maxine's ,Teddy's Bar ,243 Camac ,418 S. 18th St. ,0.3134264
+Penrose Club ,Varsity Room,1415 Locust,Quince & Walnut,0.31330138
+Penrose Club ,Varsity Room,1415 Locust ,Quince & Walnut,0.31330138
+Penrose Club ,Varsity Room,1415 Locust ,Quince & Walnut,0.31330135
+Midway ,SK Bar ,256 S. 12th St. ,2 S. Mole St. ,0.31327105
+Midway ,SK Bar ,256 S. 12th St. ,2 S. Mole St. ,0.31327105
+Midway,SK Bar ,256 S. 12th St. ,2 S. Mole St. ,0.31327093
+Midway ,SK Bar ,256 S. 12th St. ,2 S. Mole St. ,0.31327093
+Midway,Parker Hotel Bar,256 S. 12th St. ,13th & Spruce,0.31261778
+Parker Hotel Bar,Midway ,13th & Spruce,256 S. 12th St. ,0.31261778
+Parker Hotel Bar,Midway ,13th & Spruce,256 S. 12th St. ,0.31261778
+Parker Hotel Bar,Midway ,13th & Spruce,256 S. 12th St. ,0.31261778
+Parker Hotel Bar,Midway ,13th & Spruce,256 S. 12th St. ,0.31261778
+Parker Hotel Bar,Midway ,13th & Spruce,256 S. 12th St. ,0.31261778
+Midway,Parker Hotel Bar,256 S. 12th St. ,13th & Spruce,0.31261775
+Midway ,Parker Hotel Bar,256 S. 12th St. ,13th & Spruce,0.31261775
+Frank's ,Maxines ,347 S. 13th ,243 Camac,0.31252164
+Frank's ,Maxine's ,347 S. 13th ,243 Camac,0.3125216
+Frank's ,Maxine's ,347 S. 13th ,243 Camac ,0.3125216
+Frank's ,Maxine's ,347 S. 13th ,243 Camac ,0.3125216
+Forrest Bar ,The Penrose Club ,206 S. Quince ,1415 Locust ,0.31243214
+Forrest Bar ,The Penrose Club ,206 S. Quince ,1415 Locust ,0.31243214
+Forrest Bar ,The Penrose Club ,206 S. Quince ,1415 Locust ,0.31243205
+Forrest Bar ,The Penrose Club ,206 S. Quince ,1415 Locust ,0.31243205
+Peyton Place ,Varsity Room,1308 Drury Lane ,Quince & Walnut,0.31195784
+Drury Lane ,Spruce St. from 11th to 21st,1304 Drury Lane ,,0.31186914
+Spruce St. from 11th to 21st,Drury Lane ,,1304 Drury Lane ,0.31186914
+Spruce St. from 11th to 21st,Drury Lane,,1308 Drury Lane,0.31186914
+Spruce St. from 11th to 21st,Drury Lane ,,1308 Drury ,0.31186914
+Rittenhouse Square,Parker Hotel Bar,,13th & Spruce,0.31152874
+Parker Hotel Bar,Rittenhouse Square,13th & Spruce,,0.31152868
+Attic ,Dewey's,5710 Germantown,17th & Chancellor,0.31102124
+Attic ,Deweys,5710 Germantown,Chancelor at 17th St.,0.31102124
+Attic ,Dewey's,5710 Germantown ,17th & Chancellor,0.31102124
+Attic ,Deweys,5710 Germantown ,Chancelor at 17th St.,0.31102124
+Attic ,Dewey's,5710 Germantown ,17th & Chancellor,0.31102124
+Attic ,Deweys,5710 Germantown ,Chancelor at 17th St.,0.31102124
+Attic ,Dewey's,5710 Germantown,17th & Chancellor,0.3110211
+Attic ,Deweys,5710 Germantown,Chancelor at 17th St.,0.3110211
+Pirate's Den,Rittenhouse Square,210 S. Camac ,,0.31047696
+Rittenhouse Square,V.I.P. Club,,,0.3100987
+Rittenhouse Square,V.I.P Club,,,0.3100987
+Attic ,Forty-Six Club ,5710 Germantown,46 S 52nd St. ,0.30986983
+Attic ,Forty-Six Club ,5710 Germantown,46 S. 52nd St. ,0.30986983
+Attic ,Forty-Six Club ,5710 Germantown ,46 S 52nd St. ,0.30986983
+Attic ,Forty-Six Club ,5710 Germantown ,46 S. 52nd St. ,0.30986983
+Attic ,Forty-Six Club ,5710 Germantown ,46 S 52nd St. ,0.30986983
+Attic ,Forty-Six Club ,5710 Germantown ,46 S. 52nd St. ,0.30986983
+Attic ,Forty-Six Club ,5710 Germantown,46 S 52nd St. ,0.30986974
+Attic ,Forty-Six Club ,5710 Germantown,46 S. 52nd St. ,0.30986974
+Club Thirteen ,Ritz Bar,214 S. 13th St. ,13th near Market,0.30967918
+Club Thirteen ,Ritz Bar,214 S. 13th St. ,13th near Market,0.30967918
+Club Thirteen ,Ritz Bar,214 S. 13th St. ,13th near Market,0.30967912
+Ritz Bar,Club Thirteen ,13th near Market,214 S. 13th St. ,0.30967912
+Ritz Bar,Club Thirteen ,13th near Market,214 S. 13th St. ,0.30967912
+Ritz Bar,Club Thirteen ,13th near Market,214 S. 13th St. ,0.30967912
+Ritz Bar,Club Thirteen ,13th near Market,214 S. 13th St. ,0.30967912
+Ritz Bar,Club Thirteen ,13th near Market,214 S. 13th St. ,0.30967912
+Midway,Varsity Room,256 S. 12th St. ,Quince & Walnut,0.30940977
+Midway ,Varsity Room,256 S. 12th St. ,Quince & Walnut,0.30940977
+Midway ,Varsity Room,256 S. 12th St. ,Quince & Walnut,0.30940977
+Midway ,Varsity Room,256 S. 12th St. ,Quince & Walnut,0.30940977
+C.R. Club ,Parson's Table ,6400 Market ,26 S. Front St. ,0.3090831
+C.R. Club ,Parson's Table ,6400 Market ,26 S. Front St. ,0.3090829
+C.R. Club ,Drury Lane ,6400 Market ,1304 Drury Lane ,0.30871317
+C.R. Club ,Drury Lane,6400 Market ,1308 Drury Lane,0.30871317
+C.R. Club ,Drury Lane ,6400 Market ,1308 Drury ,0.30871317
+C.R. Club ,Drury Lane ,6400 Market ,1304 Drury Lane ,0.30871302
+Indian Queen ,Maxines ,1725 J. F. Kennedy Blvd. ,243 Camac,0.30817464
+Indian Queen ,Maxine's ,1725 J. F. Kennedy Blvd. ,243 Camac,0.30817458
+Maxines ,Indian Queen ,243 Camac,1725 J. F. Kennedy Blvd. ,0.30817455
+Indian Queen ,Maxine's ,1725 J. F. Kennedy Blvd. ,243 Camac ,0.30817455
+Indian Queen ,Maxine's ,1725 J. F. Kennedy Blvd. ,243 Camac ,0.30817455
+Indian Queen ,Maxine's ,1725 J. F. Kennedy Blvd. ,243 Camac,0.3081745
+Indian Queen ,Maxine's ,1725 J. F. Kennedy Blvd. ,243 Camac ,0.3081745
+Indian Queen ,Maxine's ,1725 J. F. Kennedy Blvd. ,243 Camac ,0.3081745
+Allegro ,Dewey's Coffee Shop,1412 Spruce ,13th & Chancellor,0.30747095
+Allegro ,Dewey's Coffee Shop,1412 Spruce ,17th & Chancellor,0.30747095
+Allegro ,Dewey's Coffee Shop,1412 Spruce ,13th & Chancellor,0.30747095
+Allegro ,Dewey's Coffee Shop,1412 Spruce ,17th & Chancelor,0.30747095
+Dewey's Coffee Shop,Allegro ,13th & Chancellor,1412 Spruce ,0.30747095
+Dewey's Coffee Shop,Allegro ,13th & Chancellor,1412 Spruce ,0.30747095
+Dewey's Coffee Shop,Allegro ,17th & Chancelor,1412 Spruce ,0.30747095
+Dewey's Coffee Shop,Allegro ,17th & Chancelor,1412 Spruce ,0.30747095
+Allegro ,Dewey's Coffee Shop,1412 Spruce ,13th & Chancellor,0.30747077
+Allegro ,Dewey's Coffee Shop,1412 Spruce ,17th & Chancelor,0.30747077
+Dewey's Coffee Shop,Allegro ,13th & Chancellor,1412 Spruce ,0.30747077
+Dewey's Coffee Shop,Allegro ,13th & Chancellor,1412 Spruce ,0.30747077
+Dewey's Coffee Shop,Allegro ,13th & Chancellor,1412 Spruce ,0.30747077
+Dewey's Coffee Shop,Allegro ,17th & Chancellor,1412 Spruce ,0.30747077
+Dewey's Coffee Shop,Allegro ,17th & Chancellor,1412 Spruce ,0.30747077
+Dewey's Coffee Shop,Allegro ,17th & Chancellor,1412 Spruce ,0.30747077
+Comeback ,Miss P's ,1308 Drury Lane ,418 S. 18th St. ,0.30746078
+Foster House ,The Penrose Club ,207 S. Quince ,1415 Locust ,0.3073999
+P.B.L. Club ,Westbury Hotel ,204 S. Quince ,271 S 15th St. ,0.3066001
+P.B.L Club ,Westbury Hotel ,204 S. Quince ,271 S 15th St. ,0.3066001
+PBL Club ,Westbury Hotel ,204 Quince ,271 S 15th St. ,0.3066001
+Forty-Six Club ,SK Bar ,46 S 52nd St. ,2 S. Mole St. ,0.30616292
+Forty-Six Club ,SK Bar ,46 S. 52nd St. ,2 S. Mole St. ,0.30616292
+Rittenhouse Square,The Penrose Club ,,1415 Locust ,0.30598146
+Maxines ,Ritz Bar,243 Camac,13th near Market,0.30570173
+Maxines ,Ritz Bar,243 Camac,13th near Market,0.30570173
+Ritz Bar,Maxine's ,13th near Market,243 Camac,0.30570173
+Ritz Bar,Maxine's ,13th near Market,243 Camac ,0.30570173
+Ritz Bar,Maxine's ,13th near Market,243 Camac ,0.30570173
+Maxine's ,Ritz Bar,243 Camac,13th near Market,0.30570173
+Ritz Bar,Maxine's ,13th near Market,243 Camac ,0.30570173
+Ritz Bar,Maxine's ,13th near Market,243 Camac ,0.30570173
+R.D. Club,Spruce St. from 11th to 21st,13th & Locust,,0.30567414
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S. 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S. 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S. 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S 52nd St. ,0.30487618
+Allegro ,Forty-Six Club ,1412 Spruce ,46 S. 52nd St. ,0.30487618
+Foster House ,Penrose Club ,207 S. Quince ,1415 Locust ,0.30478624
+Foster House ,Penrose Club ,207 S. Quince ,1415 Locust,0.30478615
+Foster House ,Penrose Club ,207 S. Quince ,1415 Locust ,0.30478612
+Varsity Room,Westbury Hotel ,Quince & Walnut,271 S 15th St. ,0.30462703
+Pirate's Den,Forty-Six Club ,210 S. Camac ,46 S 52nd St. ,0.30429673
+Pirate's Den,Forty-Six Club ,210 S. Camac ,46 S. 52nd St. ,0.30429673
+Drury Lane ,P.B.L. Club ,1304 Drury Lane ,204 S. Quince ,0.30376694
+Drury Lane ,P.B.L Club ,1304 Drury Lane ,204 S. Quince ,0.30376694
+Drury Lane ,PBL Club ,1304 Drury Lane ,204 Quince ,0.30376694
+P.B.L. Club ,Drury Lane ,204 S. Quince ,1304 Drury Lane ,0.30376694
+P.B.L. Club ,Drury Lane,204 S. Quince ,1308 Drury Lane,0.30376694
+P.B.L. Club ,Drury Lane ,204 S. Quince ,1308 Drury ,0.30376694
+Drury Lane ,P.B.L Club ,1304 Drury Lane ,204 S. Quince ,0.30376694
+Drury Lane ,PBL Club ,1304 Drury Lane ,204 Quince ,0.30376694
+P.B.L Club ,Drury Lane,204 S. Quince ,1308 Drury Lane,0.30376694
+P.B.L Club ,Drury Lane ,204 S. Quince ,1308 Drury ,0.30376694
+Drury Lane,PBL Club ,1308 Drury Lane,204 Quince ,0.30376694
+Drury Lane ,PBL Club ,1308 Drury ,204 Quince ,0.30376694
+C.R. Club ,Varsity Room,6400 Market ,Quince & Walnut,0.30316502
+Carey's,Maxines ,23rd & Fairmount,243 Camac,0.3026275
+Carey's,Maxine's ,23rd & Fairmount,243 Camac,0.30262744
+Carey's,Maxine's ,23rd & Fairmount,243 Camac ,0.30262744
+Carey's,Maxine's ,23rd & Fairmount,243 Camac ,0.30262744
+Baron's Variety Lounge ,Midway ,1116 Walnut ,256 S. 12th St. ,0.30193228
+Baron's Variety Lounge ,Midway ,1116 Walnut ,256 S. 12th St. ,0.30193228
+Baron's Variety Lounge ,Midway ,1116 Walnut ,256 S. 12th St. ,0.30193228
+Baron's Variety Lounge ,Midway,1116 Walnut ,256 S. 12th St. ,0.30193222
+Pirate's Den,Teddy's Bar ,210 S. Camac ,418 S. 18th St. ,0.3018976
+Pirate's Den,Teddy's bar,210 S. Camac ,Broad & Olney,0.3018976
+Pirate's Den,Teddy's Bar ,210 S. Camac ,418 S. 18th St. ,0.3018976
+Miss P's ,Club Thirteen ,418 S. 18th St. ,214 S. 13th St. ,0.3018732
+Miss P's ,Club Thirteen ,418 S. 18th St. ,214 S. 13th St. ,0.3018732
+Miss P's ,Club Thirteen ,418 S. 18th St. ,214 S. 13th St. ,0.3018732
+Club Thirteen ,Miss P's ,214 S. 13th St. ,418 S. 18th St. ,0.30187312
+Frank's ,Attic ,347 S. 13th ,5710 Germantown ,0.30170926
+Frank's ,Attic ,347 S. 13th ,5710 Germantown ,0.30170926
+Frank's ,Attic ,347 S. 13th ,5710 Germantown,0.30170923
+Attic ,Frank's ,5710 Germantown,347 S. 13th ,0.3017091
+Miss P's ,Maxine's ,418 S. 18th St. ,243 Camac,0.30085284
+Miss P's ,Maxine's ,418 S. 18th St. ,243 Camac ,0.30085284
+Miss P's ,Maxine's ,418 S. 18th St. ,243 Camac ,0.30085284
+Maxines ,Miss P's ,243 Camac,418 S. 18th St. ,0.3008528
+Peyton Place ,Westbury Hotel ,1308 Drury Lane ,271 S 15th St. ,0.30067274
+Rittenhouse Square,Westbury Hotel Bar ,,217 S. 15th St. ,0.30009696
+Rittenhouse Square,Westbury Hotel Bar ,,271 S. 15th St. ,0.30009696
+Rittenhouse Square,Westbury Hotel Bar ,,271 S. 15th St. ,0.30009696
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust ,0.3000714
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust,0.30007136
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust ,0.30007136
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust ,0.30007136
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust ,0.30007127
+Penrose Club ,Forrest Bar ,1415 Locust ,206 S. Quince ,0.30007127
+Penrose Club ,Forrest Bar ,1415 Locust ,206 S. Quince ,0.30007127
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust ,0.30007124
+Penrose Club ,Forrest Bar ,1415 Locust,206 S. Quince ,0.30007124
+Penrose Club ,Forrest Bar ,1415 Locust,206 S. Quince ,0.30007124
+Penrose Club ,Forrest Bar ,1415 Locust,206 S. Quince ,0.30007124
+Forrest Bar ,Penrose Club ,206 S. Quince ,1415 Locust ,0.30007124
+Ritz Bar,Forty-Six Club ,13th near Market,46 S 52nd St. ,0.30001625
+Ritz Bar,Forty-Six Club ,13th near Market,46 S. 52nd St. ,0.30001625
+Ritz Bar,Forty-Six Club ,13th near Market,46 S 52nd St. ,0.30001625
+Ritz Bar,Forty-Six Club ,13th near Market,46 S. 52nd St. ,0.30001625
