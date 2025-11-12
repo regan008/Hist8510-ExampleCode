@@ -6,9 +6,23 @@ This script aligns two word2vec models from different time periods using
 orthogonal Procrustes analysis to enable meaningful comparison of semantic
 changes over time.
 
+Usage examples:
+    # Use default models (word2vec_1900_20.model and word2vec_1940_60.model)
+    python align_word_vectors.py
+    
+    # Use custom model names
+    python align_word_vectors.py --model1 my_model1.model --model2 my_model2.model
+    
+    # Use models from different directories
+    python align_word_vectors.py --model1 ./models/model1.model --model2 ./models/model2.model
+    
+    # Custom output directory
+    python align_word_vectors.py --output-dir ./my_results
+
 Author: Lesson Plan for Digital Humanities Course
 """
 
+import argparse
 import os
 import pickle
 import numpy as np
@@ -173,16 +187,18 @@ def analyze_semantic_changes(model1, model2, aligned_model1, common_words, top_n
     
     return df
 
-def visualize_alignment_results(df, output_dir="alignment_results"):
+def visualize_alignment_results(df, output_dir=None):
     """
     Create visualizations of the alignment results.
     
     Args:
         df (pandas.DataFrame): Results from semantic change analysis
-        output_dir (str): Directory to save results
+        output_dir (Path or str, optional): Directory to save results. Defaults to "alignment_results".
     """
+    if output_dir is None:
+        output_dir = "alignment_results"
     output_path = Path(output_dir)
-    output_path.mkdir(exist_ok=True)
+    output_path.mkdir(parents=True, exist_ok=True)
     
     # Save detailed results
     df.to_csv(output_path / "semantic_changes.csv", index=False)
@@ -203,46 +219,117 @@ def visualize_alignment_results(df, output_dir="alignment_results"):
     
     return summary
 
+def parse_arguments():
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser(
+        description="Align two Word2Vec models using Procrustes analysis.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Use default models
+  python align_word_vectors.py
+  
+  # Use custom model names
+  python align_word_vectors.py --model1 my_model1.model --model2 my_model2.model
+  
+  # Use models from different directories
+  python align_word_vectors.py --model1 ./models/period1.model --model2 ./models/period2.model
+  
+  # Custom output directory
+  python align_word_vectors.py --output-dir ./my_results
+        """
+    )
+    
+    parser.add_argument(
+        "--model1",
+        type=str,
+        default="word2vec_1900_20.model",
+        help="Path to first Word2Vec model (default: word2vec_1900_20.model)"
+    )
+    
+    parser.add_argument(
+        "--model2",
+        type=str,
+        default="word2vec_1940_60.model",
+        help="Path to second Word2Vec model (default: word2vec_1940_60.model)"
+    )
+    
+    parser.add_argument(
+        "--output-dir",
+        type=str,
+        default="alignment_results",
+        help="Directory to save alignment results (default: alignment_results)"
+    )
+    
+    parser.add_argument(
+        "--min-freq",
+        type=int,
+        default=5,
+        help="Minimum word frequency for common vocabulary (default: 5)"
+    )
+    
+    return parser.parse_args()
+
+
 def main():
     """Main function to perform word vector alignment."""
+    args = parse_arguments()
     
     logger.info("Starting Word Vector Alignment Analysis")
-    logger.info("=" * 50)
+    logger.info("=" * 70)
+    logger.info(f"Model 1: {args.model1}")
+    logger.info(f"Model 2: {args.model2}")
+    logger.info(f"Output directory: {args.output_dir}")
+    logger.info("=" * 70)
     
-    # Load models
-    model_1900_20 = load_word2vec_model("word2vec_1900_20.model")
-    model_1940_60 = load_word2vec_model("word2vec_1940_60.model")
+    # Validate model paths
+    model1_path = Path(args.model1)
+    model2_path = Path(args.model2)
     
-    if model_1900_20 is None or model_1940_60 is None:
-        logger.error("Failed to load one or both models. Please run train_word2vec_models.py first.")
+    if not model1_path.exists():
+        logger.error(f"Model file not found: {model1_path}")
+        logger.info("Please check the path or run train_word2vec_models.py first")
         return
     
-    logger.info(f"Model 1900-20 vocabulary size: {len(model_1900_20.wv)}")
-    logger.info(f"Model 1940-60 vocabulary size: {len(model_1940_60.wv)}")
+    if not model2_path.exists():
+        logger.error(f"Model file not found: {model2_path}")
+        logger.info("Please check the path or run train_word2vec_models.py first")
+        return
+    
+    # Load models
+    model_1 = load_word2vec_model(str(model1_path))
+    model_2 = load_word2vec_model(str(model2_path))
+    
+    if model_1 is None or model_2 is None:
+        logger.error("Failed to load one or both models. Please check the model paths.")
+        return
+    
+    logger.info(f"Model 1 vocabulary size: {len(model_1.wv)}")
+    logger.info(f"Model 2 vocabulary size: {len(model_2.wv)}")
     
     # Get common vocabulary
-    common_words = get_common_vocabulary(model_1900_20, model_1940_60, min_freq=5)
+    common_words = get_common_vocabulary(model_1, model_2, min_freq=args.min_freq)
     
     if len(common_words) < 10:
-        logger.error("Not enough common words found. Try reducing min_freq or check your data.")
+        logger.error(f"Not enough common words found ({len(common_words)}). Try reducing --min-freq or check your data.")
         return
     
     logger.info(f"Analyzing {len(common_words)} common words")
     
     # Extract word vectors
     logger.info("Extracting word vectors...")
-    vectors_1900_20, valid_words_1900_20 = extract_word_vectors(model_1900_20, common_words)
-    vectors_1940_60, valid_words_1940_60 = extract_word_vectors(model_1940_60, common_words)
+    vectors_1, valid_words_1 = extract_word_vectors(model_1, common_words)
+    vectors_2, valid_words_2 = extract_word_vectors(model_2, common_words)
     
     # Ensure we have the same words in both sets
-    assert valid_words_1900_20 == valid_words_1940_60, "Word order mismatch"
+    assert valid_words_1 == valid_words_2, "Word order mismatch"
     
-    logger.info(f"Extracted vectors for {len(valid_words_1900_20)} words")
+    logger.info(f"Extracted vectors for {len(valid_words_1)} words")
     
     # Perform orthogonal Procrustes alignment
     logger.info("Performing orthogonal Procrustes alignment...")
-    aligned_vectors_1900_20, rotation_matrix = orthogonal_procrustes_alignment(
-        vectors_1900_20, vectors_1940_60
+    aligned_vectors_1, rotation_matrix = orthogonal_procrustes_alignment(
+        vectors_1, vectors_2
     )
     
     logger.info("Alignment completed")
@@ -251,28 +338,28 @@ def main():
     # Analyze semantic changes
     logger.info("Analyzing semantic changes...")
     results_df = analyze_semantic_changes(
-        model_1900_20, model_1940_60, aligned_vectors_1900_20, valid_words_1900_20
+        model_1, model_2, aligned_vectors_1, valid_words_1
     )
     
     # Display top changes
-    logger.info("Top 10 words with largest semantic changes:")
+    logger.info("\nTop 10 words with largest semantic changes:")
     top_changes = results_df.head(10)
     for _, row in top_changes.iterrows():
         logger.info(f"  {row['word']}: {row['semantic_change']:.4f}")
     
     # Display words with smallest changes
-    logger.info("Top 10 words with smallest semantic changes:")
+    logger.info("\nTop 10 words with smallest semantic changes:")
     bottom_changes = results_df.tail(10)
     for _, row in bottom_changes.iterrows():
         logger.info(f"  {row['word']}: {row['semantic_change']:.4f}")
     
     # Create visualizations and save results
-    summary = visualize_alignment_results(results_df)
+    summary = visualize_alignment_results(results_df, args.output_dir)
     
-    logger.info("=" * 50)
+    logger.info("\n" + "=" * 70)
     logger.info("ALIGNMENT ANALYSIS COMPLETED")
-    logger.info("=" * 50)
-    logger.info("Results saved to 'alignment_results/' directory:")
+    logger.info("=" * 70)
+    logger.info(f"Results saved to '{args.output_dir}/' directory:")
     logger.info("  - semantic_changes.csv: Detailed analysis for each word")
     logger.info("  - summary_statistics.csv: Overall statistics")
     logger.info(f"Total words analyzed: {summary['total_words_analyzed']}")
