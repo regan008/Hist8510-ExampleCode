@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Philadelphia Venues Visualization</title>
+    <!-- Plotly.js CDN -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            margin-top: 30px;
+        }
+        .chart-container {
+            width: 100%;
+            height: 500px;
+            margin: 20px 0;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Philadelphia Venues Data Visualization</h1>
+        <p>Interactive visualizations of venue data from Philadelphia using Plotly.js</p>
+        
+        <div id="loading" class="loading">Loading data...</div>
+        
+        <h2>Venue Locations Map</h2>
+        <div id="map-chart" class="chart-container"></div>
+        
+        <h2>Venues by Type</h2>
+        <div id="type-chart" class="chart-container"></div>
+        
+        <h2>Venues by Year</h2>
+        <div id="year-chart" class="chart-container"></div>
+    </div>
+
+    <script>
+        // ============================================================================
+        // DATA FETCHING
+        // ============================================================================
+        // The fetch() function makes an HTTP request to our Flask API endpoint
+        // This is an asynchronous operation, so we use .then() to handle the response
+        fetch('/api/data')
+            // .then() is called when the HTTP request completes successfully
+            // response.json() converts the response body from JSON text to a JavaScript object
+            .then(response => response.json())
+            // This .then() receives the parsed JSON data as the 'data' parameter
+            .then(data => {
+                // Hide the loading message once data is loaded
+                // We access the DOM element by its ID and change its display style
+                document.getElementById('loading').style.display = 'none';
+                
+                // Call our visualization function with the loaded data
+                processAndVisualize(data);
+            })
+            // .catch() handles any errors that occur during the fetch or parsing
+            .catch(error => {
+                // Log the error to the browser console for debugging
+                console.error('Error loading data:', error);
+                // Update the loading message to show an error
+                document.getElementById('loading').textContent = 'Error loading data';
+            });
+
+        // ============================================================================
+        // MAIN VISUALIZATION FUNCTION
+        // ============================================================================
+        function processAndVisualize(data) {
+            // ========================================================================
+            // STEP 1: PREPARE DATA FOR MAP VISUALIZATION
+            // ========================================================================
+            
+            // Filter the data to only include entries with valid coordinates
+            // The filter() method creates a new array with only items that pass the test
+            // We check that lat and lon exist AND are not the string 'NA'
+            const validLocations = data.filter(d => d.lat && d.lon && d.lat !== 'NA' && d.lon !== 'NA');
+            
+            // Extract arrays of data needed for the map visualization
+            // map() transforms each item in the array and returns a new array
+            
+            // Convert latitude strings to numbers using parseFloat()
+            // This is necessary because CSV data comes in as strings
+            const lats = validLocations.map(d => parseFloat(d.lat));
+            
+            // Convert longitude strings to numbers
+            const lons = validLocations.map(d => parseFloat(d.lon));
+            
+            // Extract venue titles, using 'Untitled' as a fallback if title is missing
+            // The || operator provides a default value if the left side is falsy
+            const titles = validLocations.map(d => d.title || 'Untitled');
+            
+            // Extract venue types, using 'Unknown' as a fallback
+            const types = validLocations.map(d => d.type || 'Unknown');
+            
+            // ========================================================================
+            // STEP 2: CREATE MAP TRACE (THE DATA LAYER)
+            // ========================================================================
+            // In Plotly, a "trace" represents one set of data points to be plotted
+            // Think of it as one layer of data on the chart
+            
+            const mapTrace = {
+                // 'scattermapbox' is a Plotly trace type that plots points on a map
+                // It uses Mapbox (or OpenStreetMap) as the base map layer
+                type: 'scattermapbox',
+                
+                // 'markers' mode means we want to show points, not lines
+                // Other modes include 'lines', 'markers+lines', etc.
+                mode: 'markers',
+                
+                // Array of latitude values - one for each venue
+                // Plotly will plot a marker at each (lat, lon) pair
+                lat: lats,
+                
+                // Array of longitude values - must match the length of lats array
+                lon: lons,
+                
+                // Text to display when hovering over a marker
+                // This will be shown in the tooltip
+                text: titles,
+                
+                // customdata allows us to store additional data for each point
+                // We'll use this in the hovertemplate to show venue type
+                // This is separate from 'text' so we can format it differently
+                customdata: types,
+                
+                // Marker styling options
+                marker: {
+                    // Size of each marker in pixels
+                    size: 8,
+                    
+                    // Color of the markers (blue)
+                    // Can be a single color or an array for different colors per point
+                    color: '#007bff',
+                    
+                    // Opacity (transparency) from 0 (invisible) to 1 (fully opaque)
+                    // 0.7 means 70% opaque, 30% transparent
+                    opacity: 0.7
+                },
+                
+                // hovertemplate defines what appears when you hover over a marker
+                // %{text} inserts the value from the 'text' property
+                // %{customdata} inserts the value from the 'customdata' property
+                // <b> makes text bold, <br> creates a line break
+                // <extra></extra> removes the default trace name from the hover box
+                hovertemplate: '<b>%{text}</b><br>Type: %{customdata}<extra></extra>'
+            };
+            
+            // ========================================================================
+            // STEP 3: CREATE MAP LAYOUT (THE APPEARANCE AND STRUCTURE)
+            // ========================================================================
+            // The layout object controls how the chart looks, not what data is shown
+            
+            const mapLayout = {
+                // mapbox configuration for the base map
+                mapbox: {
+                    // Map style: 'open-street-map' uses OpenStreetMap tiles (free, no API key needed)
+                    // Other options include 'satellite', 'dark', or custom Mapbox styles
+                    style: 'open-street-map',
+                    
+                    // Center the map on the average of all coordinates
+                    // This calculates the geographic center of all venues
+                    center: {
+                        // Average latitude: sum all lats, divide by count
+                        // reduce() combines all array values into a single value
+                        lat: lats.reduce((a, b) => a + b) / lats.length,
+                        
+                        // Average longitude: sum all lons, divide by count
+                        lon: lons.reduce((a, b) => a + b) / lons.length
+                    },
+                    
+                    // Zoom level: higher number = more zoomed in
+                    // Typical range: 1 (world view) to 20 (street level)
+                    // 11 is a good city-level view
+                    zoom: 11
+                },
+                
+                // Height of the chart in pixels
+                height: 500,
+                
+                // Margins around the chart (top, bottom, left, right)
+                // Setting all to 0 removes extra whitespace
+                margin: { t: 0, b: 0, l: 0, r: 0 }
+            };
+            
+            // ========================================================================
+            // STEP 4: CREATE THE MAP CHART
+            // ========================================================================
+            // Plotly.newPlot() creates a new chart and replaces any existing chart
+            // Parameters:
+            //   1. 'map-chart' - the ID of the HTML div where the chart will appear
+            //   2. [mapTrace] - array of trace objects (we have one trace for the map)
+            //   3. mapLayout - the layout configuration object
+            //   4. {responsive: true} - options object; responsive makes chart resize with window
+            Plotly.newPlot('map-chart', [mapTrace], mapLayout, {responsive: true});
+            
+            // ========================================================================
+            // STEP 5: PREPARE DATA FOR TYPE BAR CHART
+            // ========================================================================
+            
+            // Create an object to count how many venues of each type we have
+            // We'll use the type as the key and the count as the value
+            const typeCounts = {};
+            
+            // Loop through all data entries (not just validLocations)
+            // forEach() executes a function for each item in the array
+            data.forEach(d => {
+                // Get the type, or use 'Unknown' if missing
+                const type = d.type || 'Unknown';
+                
+                // Increment the count for this type
+                // If the type doesn't exist in the object yet, start at 0, then add 1
+                // If it exists, get the current count and add 1
+                typeCounts[type] = (typeCounts[type] || 0) + 1;
+            });
+            
+            // Extract the type names (keys) from our counts object
+            // Object.keys() returns an array of all property names
+            const typeLabels = Object.keys(typeCounts);
+            
+            // Extract the counts (values) from our counts object
+            // Object.values() returns an array of all property values
+            const typeValues = Object.values(typeCounts);
+            
+            // ========================================================================
+            // STEP 6: CREATE TYPE BAR CHART TRACE
+            // ========================================================================
+            
+            const typeTrace = {
+                // x-axis values: the category labels (venue types)
+                x: typeLabels,
+                
+                // y-axis values: the counts for each category
+                y: typeValues,
+                
+                // 'bar' creates a bar chart (vertical bars by default)
+                // Other types: 'scatter', 'line', 'pie', 'histogram', etc.
+                type: 'bar',
+                
+                // Marker styling (for bar charts, this affects bar color)
+                marker: {
+                    // All bars will be this blue color
+                    color: '#007bff'
+                }
+            };
+            
+            // ========================================================================
+            // STEP 7: CREATE TYPE BAR CHART LAYOUT
+            // ========================================================================
+            
+            const typeLayout = {
+                // Chart title that appears above the chart
+                title: 'Number of Venues by Type',
+                
+                // x-axis configuration
+                xaxis: { 
+                    // Label for the x-axis (appears below the axis)
+                    title: 'Venue Type' 
+                },
+                
+                // y-axis configuration
+                yaxis: { 
+                    // Label for the y-axis (appears to the left of the axis)
+                    title: 'Count' 
+                },
+                
+                // Height of the chart in pixels
+                height: 500
+            };
+            
+            // ========================================================================
+            // STEP 8: CREATE THE TYPE BAR CHART
+            // ========================================================================
+            // Same Plotly.newPlot() function, but for the type chart
+            Plotly.newPlot('type-chart', [typeTrace], typeLayout, {responsive: true});
+            
+            // ========================================================================
+            // STEP 9: PREPARE DATA FOR YEAR BAR CHART
+            // ========================================================================
+            
+            // Create an object to count venues by year
+            const yearCounts = {};
+            
+            // Loop through all data entries
+            data.forEach(d => {
+                // Get the year, or use 'Unknown' if missing
+                // Note: 'Year' is capitalized because that's the column name in the CSV
+                const year = d.Year || 'Unknown';
+                
+                // Increment the count for this year
+                yearCounts[year] = (yearCounts[year] || 0) + 1;
+            });
+            
+            // Get all year labels and sort them numerically
+            // Object.keys() gets the years, .sort() puts them in order
+            // This ensures years appear chronologically on the x-axis
+            const yearLabels = Object.keys(yearCounts).sort();
+            
+            // Get the counts in the same order as the sorted labels
+            // map() creates a new array by calling a function on each year label
+            // For each year, we look up its count in yearCounts
+            const yearValues = yearLabels.map(y => yearCounts[y]);
+            
+            // ========================================================================
+            // STEP 10: CREATE YEAR BAR CHART TRACE
+            // ========================================================================
+            
+            const yearTrace = {
+                // x-axis: years (sorted chronologically)
+                x: yearLabels,
+                
+                // y-axis: counts for each year
+                y: yearValues,
+                
+                // Bar chart type
+                type: 'bar',
+                
+                // Marker styling with a different color (green) to distinguish from type chart
+                marker: {
+                    color: '#28a745'
+                }
+            };
+            
+            // ========================================================================
+            // STEP 11: CREATE YEAR BAR CHART LAYOUT
+            // ========================================================================
+            
+            const yearLayout = {
+                // Chart title
+                title: 'Number of Venues by Year',
+                
+                // x-axis label
+                xaxis: { title: 'Year' },
+                
+                // y-axis label
+                yaxis: { title: 'Count' },
+                
+                // Chart height
+                height: 500
+            };
+            
+            // ========================================================================
+            // STEP 12: CREATE THE YEAR BAR CHART
+            // ========================================================================
+            // Final Plotly.newPlot() call to create the year chart
+            Plotly.newPlot('year-chart', [yearTrace], yearLayout, {responsive: true});
+        }
+    </script>
+</body>
+</html>
+
